@@ -4,7 +4,7 @@ namespace App\View\Components;
 
 use Illuminate\View\Component;
 
-class test2 extends Component
+class header extends Component
 {
     /**
      * Create a new component instance.
@@ -23,6 +23,6 @@ class test2 extends Component
      */
     public function render()
     {
-        return view('components.test2');
+        return view('components.header');
     }
 }

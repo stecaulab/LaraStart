@@ -1,1 +1,61 @@
+.header {
+  padding: 30px;
+}
 
+.menu li {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.menu li a {
+  display: block;
+  padding: 15px;
+}
+
+.cta .button {
+  padding: 9px 28px;
+  background: #f4c430;
+  color: #fff;
+  display: inline-block;
+  border-radius: 4px;
+  margin-top: 15px;
+}
+
+/* Hero */
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  background: #F7F0F5;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, p {
+  color: 0;
+  padding-bottom: 30px;
+}
+
+.big.test {
+  font-size: 70px;
+}
+
+.med-text {
+  font-size: 40px;
+}
+
+.normal-text {
+  font-size: 20px;
+}
+
+.small-text {
+  font-size: 14px;
+}
+
+.intro-text {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+}

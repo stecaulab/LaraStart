@@ -1,0 +1,38 @@
+.header{
+    // border: 1px solid red;
+    padding: 30px;
+ 
+}
+.logo{
+    // border: 1px solid red;
+}
+
+.menu{
+    // border: 1px solid red;
+    
+    li{
+        display:inline-block;
+        margin-top:10px;
+
+        a{
+            display:block;
+            padding:15px;
+        }
+    }
+}
+
+.cta{
+    // border: 1px solid red;
+    .button{
+            padding: 9px 28px;
+            background: $main-color;
+            color:#fff;
+            display: inline-block;
+            border-radius:4px;
+            margin-top: 15px;
+        }
+}
+
+
+/* Hero */
+
