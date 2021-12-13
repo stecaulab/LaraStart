@@ -11,12 +11,16 @@
     <div class="cta">
         <a href="" class="button">Shop</a>
     </div>
-
-    <div class="hero">
-        <div class="hero__content">
-            <p>Intro text</p>
-            <h1>Titolo pagina web</h1>
-            <a href="" class="button">Guarda il video</a>
-        </div>
+    <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+<div class="hero">
+    <div class="hero__content">
+        <p class="intro-text">Intro text</p>
+        <h1 class="big-text">Titolo pagina web</h1>
+        <a href="" class="button">Guarda il video</a>
     </div>
 </div>
