@@ -3,7 +3,22 @@
 
 // import SCSS style file
 @import 'header';
+@import 'poster';
+@import 'bgcover';
 
+/* helpers  */
+
+.m-top1{margin-top:3.125rem;}
+.m-top2{margin-top: 6.25rem;}
+.m-top3{margin-top: 9.375rem;}
+
+.p-top1{padding-top: 3.125rem;}    /* 5OPX */
+.p-top2{padding-top: 6.25rem;}    /* 100PX  */
+.p-top3{padding-top: 9.375rem;}   /* 150PX  */
+
+.p-bott1{padding-bottom: 3.125rem;}   /* 5OPX */
+.p-bott2{padding-bottom: 6.25rem;}   /* 100PX  */
+.p-bott3{padding-bottom: 9.375rem;}   /* 150PX  */
 
 
 //common style default
@@ -12,7 +27,9 @@ body{font-family: 'Inter', sans-serif;font-size: 16px;background:$background-col
 
 a{text-decoration: none;}
 
-h1,h2,h3,h4,h5,p{color: 000;padding-bottom: 30px;}
+h1,h2,h3,h4,h5,p{color: #fff;padding-bottom: 30px;}
+
+p{line-height: 20px;color:#4e4e4e;font-weight: 400;}
 
 .big-text{font-size: 70px;font-weight: 900;}
 .med-text{font-size: 40px;}
