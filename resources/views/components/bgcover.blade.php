@@ -1,4 +1,4 @@
-<div class="bgcover flex flex-wrap p-top2 p-bott2">
+<div class="bgcover flex flex-wrap h-auto p-top2 p-bott2 m-top3">
 
     <div class="bgcover__title w-full md:w-3/6 flex items-center pl-8 pr-8 p-top1">
         <h3 class="big-text text-white">Titolo del blocco cover</h3>
