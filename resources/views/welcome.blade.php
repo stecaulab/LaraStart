@@ -18,4 +18,10 @@
         
      </x-bgcover>
 
+         {{-- includo slider card --}}
+
+    <x-slider-card>
+        {{-- includo slider card --}}
+    </x-slider-card>
+
 </x-layout-base>

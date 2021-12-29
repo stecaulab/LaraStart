@@ -9,7 +9,7 @@
         <li><a href="">Contatti</a></li>
     </ul>
     <div class="cta">
-        <a href="" class="button">Shop</a>
+        <a href="#callToAction" class="button mt-4">Shop</a>
     </div>
     <div class="hamburger">
         <span></span>
@@ -19,8 +19,15 @@
 </div>
 <div class="hero">
     <div class="hero__content">
-        <p class="intro-text">Intro text</p>
-        <h1 class="big-text">Titolo pagina web</h1>
-        <a href="" class="button">Guarda il video</a>
+        <p class=" font-bold uppercase mt-20 md:text-3xl md:mt-12">Agricoltura Sostenibile</p>
+        <p class=" relative text-4xl  md:text-6xl md:leading-relaxed pr-2.5 pl-2.5 text-white ">
+            “Credo che avere la terra e non rovinarla <br>
+            sia la più bella forma d'arte <br>
+             che si possa desiderare” <br>
+          
+            <span class="text-base absolute mt-5 md:pos-top3 md:pos-left3"> - Andy Warhol - </span> 
+
+        </p> 
+        <a href="" class="button mt-14">Guarda il video</a>
     </div>
 </div>
