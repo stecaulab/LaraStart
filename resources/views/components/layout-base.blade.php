@@ -15,14 +15,14 @@
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700;900&display=swap" rel="stylesheet">
-        
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700;900&display=swap" rel="stylesheet">
 
         
         <!-- Scripts js -->
 
         <script src="/js/app.js" defer></script>
         <script src="/js/function.js" defer></script>
+        <script src="https://kit.fontawesome.com/1b8cb35519.js" crossorigin="anonymous"></script>
     
     </head>
     <body>

@@ -24,4 +24,7 @@
         {{-- includo slider card --}}
     </x-slider-card>
 
+    <x-footer>
+        {{-- includo footer --}}
+    </x-footer>
 </x-layout-base>

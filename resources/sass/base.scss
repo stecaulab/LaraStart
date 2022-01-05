@@ -5,6 +5,7 @@
 @import 'header';
 @import 'poster';
 @import 'bgcover';
+@import 'footer';
 
 /* helpers  */
 
@@ -25,6 +26,7 @@
 .pos-left3{left:63.75rem;}    /* 1020PX  */
 
 .second-text-color{color:$second-textcolor;}
+.second-color{color:$second-color;}
 //common style default
 
 body{font-family: 'Inter', sans-serif;font-size: 16px;background:$background-color;color: #fff;}
