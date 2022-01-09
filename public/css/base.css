@@ -13,6 +13,7 @@
 }
 
 .menu {
+  transition: 1s cubic-bezier(0.215, 0.61, 0.355, 1);
   padding-left: 20px;
 }
 
@@ -63,7 +64,7 @@
     height: 30px;
     position: absolute;
     top: 60px;
-    right: 50px;
+    left: 300px;
   }
 
   .hamburger span {
@@ -94,7 +95,7 @@
   top: 0px;
   left: 0px;
   background: #000;
-  opacity: 0.4;
+  opacity: 0.5;
 }
 
 .hero__content {
@@ -136,8 +137,39 @@
 }
 
 .bgcover {
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/img/cover.png") no-repeat center center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url("/img/bgcover.jpg") no-repeat center center;
   background-size: cover;
+}
+
+.bgcover .bgcover__title {
+  z-index: 3;
+}
+
+.bgcover .bgcover__title h2 {
+  font-family: "Heebo", sans-serif;
+  font-size: 80px;
+  font-weight: 200;
+}
+
+.bgcover .bgcover__text {
+  z-index: 3;
+}
+
+.bgcover .bgcover__text h4 {
+  font-family: "Heebo", sans-serif;
+  font-weight: 200;
+}
+
+.bgcover::after {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: #000;
+  opacity: 0.4;
 }
 
 .footer {
@@ -259,6 +291,10 @@ p {
 
 .med-text {
   font-size: 40px;
+}
+
+.med-l-text {
+  font-size: 32px;
 }
 
 .normal-text {

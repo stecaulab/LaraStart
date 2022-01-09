@@ -14,7 +14,7 @@
 
 .menu{
     // border: 1px solid red;
-    
+    transition:  1s cubic-bezier(0.215, 0.61, 0.355, 1);
     padding-left:20px;
     
     li{
@@ -36,6 +36,7 @@
     .cta{display: none;}
 
     .menu{  
+
             position:absolute;
             top:0;
             right:-100%;
@@ -61,7 +62,7 @@
         height:30px;
         position: absolute;
         top:60px;
-        right:50px;
+        left:300px;
 
         span{
             background: #fff;
@@ -96,7 +97,7 @@
     top: 0px;
     left: 0px;
     background: #000;
-    opacity: 0.4;
+    opacity: 0.5;
 }
 
 .hero__content{  

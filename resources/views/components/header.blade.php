@@ -18,17 +18,17 @@
     </div>
 </div>
 <div class="hero relative">
-    <div class="hero__content">
-        <p class=" font-bold uppercase mt-20 md:text-2xl md:mt-12">Agricoltura Sostenibile</p>
+    <div class="hero__content reveal">
+        <p class=" font-bold uppercase mt-20 md:text-2xl md:mt-12 ">Agricoltura Sostenibile</p>
         <p class=" relative text-4xl  md:text-6xl md:leading-relaxed pr-2.5 pl-2.5 text-white ">
             “Credo che avere la terra e non rovinarla <br>
             sia la più bella forma d'arte <br>
              che si possa desiderare” <br>
           
-            <span class="text-base absolute mt-5 md:pos-top3 md:pos-left3"> - Andy Warhol - </span> 
+            <span class="text-base absolute mt-5 md:pos-top3 md:pos-left3 "> - Andy Warhol - </span> 
 
         </p> 
-        <a href="" class="button mt-14">Guarda il video</a>
+        
     </div>
     <video autoplay  muted loop id="video-back" class="max-w-none">
          <source src="/img/CoverVideo.mp4" type="video/mp4">
