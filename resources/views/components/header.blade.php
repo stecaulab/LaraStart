@@ -3,10 +3,10 @@
         <img src="/img/logoVM_small.png" alt="">
     </div>
     <ul class="menu w-full">
-        <li><a class="text-lg uppercase" href="">Home</a></li>
-        <li><a class="text-lg uppercase" href="">Prodotti</a></li>
-        <li><a class="text-lg uppercase" href="">Creazioni</a></li>
-        <li><a class="text-lg uppercase" href="">Contatti</a></li>
+        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Home</a></li>
+        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Prodotti</a></li>
+        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Creazioni</a></li>
+        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Contatti</a></li>
     </ul>
     <div class="cta">
         <a href="#callToAction" class="button mt-4">Shop</a>
