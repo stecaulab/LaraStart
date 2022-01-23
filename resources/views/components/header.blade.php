@@ -1,15 +1,23 @@
-<div class="header w-full fixed top-0 left-0 flex">
-    <div class="logo">
+<div class="header w-full fixed top-0 left-0 flex mx-auto justify-between">
+    {{-- <div class="logo">
         <img src="/img/logoVM_small.png" alt="">
-    </div>
-    <ul class="menu w-full">
-        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Home</a></li>
-        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Prodotti</a></li>
-        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Creazioni</a></li>
-        <li><a class="text-lg text-white uppercase hvr-underline-from-center" href="">Contatti</a></li>
+    </div> --}}
+    <ul class="menu md:flex reveal items-center">
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('home')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Home</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('prodotti')) ? 'actived' : '' }}" href="">Prodotti</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('creazioni')) ? 'actived' : '' }}" href="">Creazioni</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived' : '' }}" href="">Contatti</a></li>
     </ul>
-    <div class="cta">
-        <a href="#callToAction" class="button mt-4">Shop</a>
+    <div class="logo">
+        <img src="/img/logo_VM.svg" alt="AziendaAgricolaValMastallone(VC)">
+    </div>
+    <div class="cta flex items-center justify-end">
+        {{-- <span class="inline-block mr-5 opacity-0">
+            <a class ="  hover:text-white p-2"  href=""><i class="fab fa-facebook-f fa-lg"></i></a>
+            <a class ="  hover:text-white p-2"  href=""><i class="fab fa-instagram fa-lg"></i></a>
+            <a class ="  hover:text-white p-2"  href=""><i class="fab fa-whatsapp  fa-lg"></i></a>
+        </span> --}}
+        
     </div>
     <div class="hamburger">
         <span></span>
@@ -19,7 +27,7 @@
 </div>
 <div class="hero relative">
     <div class="hero__content reveal">
-        <p class=" font-bold uppercase mt-20 md:text-2xl md:mt-12 ">Agricoltura Sostenibile</p>
+        {{-- <p class=" font-bold uppercase mt-20 md:text-2xl md:mt-12 ">Agricoltura Sostenibile</p> --}}
         <p class=" relative text-4xl  md:text-6xl md:leading-relaxed pr-2.5 pl-2.5 text-white ">
             “Credo che avere la terra e non rovinarla <br>
             sia la più bella forma d'arte <br>

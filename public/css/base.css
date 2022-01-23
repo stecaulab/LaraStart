@@ -1,24 +1,66 @@
 /* HEADER SECTION  */
 
 .header {
-  padding: 30px;
-  max-width: 1350px;
+  padding: 10px 85px;
+  max-width: 1536px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 10;
+  font-family: "Inter";
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.header:after {
+  content: " ";
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
+  background: linear-gradient(180deg, #d1d0cc 0%, #d1d0cc 29%, rgba(255, 255, 255, 0) 100%);
+  opacity: 0;
+  transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.attiva .header:after {
+  opacity: 1;
 }
 
 .logo {
   z-index: 1;
+  padding-left: 50px;
+  filter: invert(1);
+  transition: all 0.5s cubic-bezier(0.355, 0.61, 0.215, 1);
+}
+
+.inverti .logo {
+  width: 140px;
+  filter: invert(0);
+}
+
+.cta {
+  width: 400px;
+}
+
+.cta span {
+  transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.attiva .cta span {
+  opacity: 0.8;
 }
 
 .menu {
-  transition: 1s cubic-bezier(0.215, 0.61, 0.355, 1);
-  padding-left: 20px;
+  transition: all 2s cubic-bezier(0.355, 0.61, 0.215, 1);
+  padding-left: 0px;
+  opacity: 0;
+  width: 400px;
 }
 
 .menu li {
-  display: inline-block;
+  display: block;
   margin-top: 10px;
 }
 
@@ -26,6 +68,10 @@
   display: block;
   padding: 10px 0px;
   margin: 0 15px;
+}
+
+.attiva .menu {
+  opacity: 1;
 }
 
 .hamburger {
@@ -44,6 +90,8 @@
     background: #000;
     height: 100vh;
     padding-top: 120px;
+    width: 100%;
+    opacity: 1;
   }
 
   .menu li {
@@ -52,7 +100,8 @@
 
   .menu li a {
     padding: 15px 30px;
-    font-size: 20px;
+    font-size: 28px;
+    display: block;
   }
 
   .menu--open {
@@ -85,6 +134,7 @@
   width: 100%;
   align-items: center;
   overflow: hidden;
+  font-family: "Inter";
 }
 
 .hero::after {
@@ -103,9 +153,14 @@
   width: 100%;
   max-width: 1350px;
   margin: 0 auto;
-  padding-left: 30px;
   position: relative;
   z-index: 1;
+  transition: ease-in-out 0.3s cubic-bezier(0.215, 0.61, 0.355, 1);
+  opacity: 1;
+}
+
+.disattiva .hero__content {
+  opacity: 0;
 }
 
 #video-back {
@@ -143,8 +198,8 @@
   z-index: -1;
   left: 51%;
   right: 51%;
-  bottom: 0;
-  background: #fff;
+  bottom: 0px;
+  background: #C17F5C;
   height: 2px;
   transition-property: left, right;
   transition-duration: 0.3s;
@@ -154,6 +209,20 @@
 .hvr-underline-from-center:hover:before, .hvr-underline-from-center:focus:before, .hvr-underline-from-center:active:before {
   left: 0;
   right: 0;
+}
+
+.hvr-underline-from-center-attiva::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  background: #C17F5C;
+  height: 2px;
+  transition-property: left, right;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
 }
 
 /* POSTER SECTION  */
@@ -292,10 +361,9 @@
 }
 
 body {
-  font-family: "Inter", sans-serif;
   font-size: 16px;
   background: #F7F0F5;
-  color: #fff;
+  color: #666;
 }
 
 a {
@@ -346,6 +414,11 @@ p {
   color: #fff;
   display: inline-block;
   border-radius: 4px;
+}
+
+.actived {
+  color: #000;
+  font-size: 30px;
 }
 
 @media (max-width: 768px) {

@@ -7,6 +7,10 @@
 @import 'bgcover';
 @import 'footer';
 
+
+   
+
+
 /* helpers  */
 
 .m-top1{margin-top:3.125rem;}    /* 5OPX */
@@ -29,7 +33,9 @@
 .second-color{color:$second-color;}
 //common style default
 
-body{font-family: 'Inter', sans-serif;font-size: 16px;background:$background-color;color: #fff;}
+
+
+body{font-size: 16px;background:$background-color;color: #666;}
 
 a{text-decoration: none;}
 
@@ -55,6 +61,13 @@ p{line-height: 20px;color:#686767;font-weight: 400;}
     border-radius:4px;
      //margin-top: 15px;
  }
+
+ .actived  {
+     color:#000;
+     font-size: 30px;
+ }
+
+
 
 @media (max-width:768px){ 
     .big-text{font-size: 40px;}
