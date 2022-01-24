@@ -25,21 +25,24 @@
 
 
 .attiva .header:after{
-    opacity:1
+    opacity:1;
 }
  
 .logo{
-    z-index:1;
-    padding-left: 50px;
+    z-index:1; 
     filter:invert(1);
     transition: all 0.5s cubic-bezier(.355, .61, .215, 1);
 }
 
 .inverti .logo{
-    width:140px;
-    filter:invert(0);   
+    width:80px;
+    filter:invert(0);  
+    
     
 }
+
+
+
 
 .cta{
    width:400px;
@@ -119,7 +122,19 @@
      }
      
 }
+/* Only for header-second  */
 
+.logo1{
+    z-index:1;
+    filter:invert(0);
+    transition: all 0.5s cubic-bezier(.355, .61, .215, 1);
+}
+
+.inverti .logo1{
+    width:80px;
+    filter:invert(0);   
+    
+}
 
 
 /* Hero  */

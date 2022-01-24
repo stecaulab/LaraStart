@@ -31,7 +31,7 @@
         <script src="https://player.vimeo.com/api/player.js"></script>
     
     </head>
-    <body>
+    <body class="bg-white">
         {{ $slot }}
     </body>
 

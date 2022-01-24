@@ -20,3 +20,7 @@ Route::get('/home', function () {
 Route::get('/', function () {
     return redirect('/home');
 });
+
+Route::get('/prodotti', function () {
+    return view('/single');
+});

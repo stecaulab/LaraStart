@@ -30,13 +30,12 @@
 
 .logo {
   z-index: 1;
-  padding-left: 50px;
   filter: invert(1);
   transition: all 0.5s cubic-bezier(0.355, 0.61, 0.215, 1);
 }
 
 .inverti .logo {
-  width: 140px;
+  width: 80px;
   filter: invert(0);
 }
 
@@ -124,6 +123,19 @@
     display: block;
     margin-bottom: 5px;
   }
+}
+
+/* Only for header-second  */
+
+.logo1 {
+  z-index: 1;
+  filter: invert(0);
+  transition: all 0.5s cubic-bezier(0.355, 0.61, 0.215, 1);
+}
+
+.inverti .logo1 {
+  width: 80px;
+  filter: invert(0);
 }
 
 /* Hero  */
@@ -297,6 +309,36 @@
 }
 
 /* 150PX  */
+
+.m-top4 {
+  margin-top: 12.5rem;
+}
+
+/* 200PX  */
+
+.m-bott1 {
+  margin-bottom: 3.125rem;
+}
+
+/* 5OPX */
+
+.m-bott2 {
+  margin-bottom: 6.25rem;
+}
+
+/* 100PX  */
+
+.m-bott3 {
+  margin-bottom: 9.375rem;
+}
+
+/* 150PX  */
+
+.m-bott3 {
+  margin-bottom: 12.5rem;
+}
+
+/* 200PX  */
 
 .p-top1 {
   padding-top: 3.125rem;
