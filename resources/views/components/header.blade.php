@@ -1,3 +1,4 @@
+@section('title')Home @endsection
 <div class="header w-full fixed top-0 left-0 flex mx-auto justify-between">
     {{-- <div class="logo">
         <img src="/img/logoVM_small.png" alt="">
@@ -9,7 +10,9 @@
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Contatti</a></li>
     </ul>
     <div class="logo">
-        <img src="/img/logo_VM.svg" alt="AziendaAgricolaValMastallone(VC)">
+        <a href="/home">
+            <img src="/img/logo_VM.svg" alt="AziendaAgricolaValMastallone(VC)">
+        </a>
     </div>
     <div class="cta flex items-center justify-end">
         {{-- <span class="inline-block mr-5 opacity-0">

@@ -7,7 +7,9 @@
     </x-header-second>
 
     <x-product> 
+        
          {{-- Includo product show grid --}}
+    
     </x-product>
     
 

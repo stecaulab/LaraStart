@@ -21,7 +21,7 @@
           Contatti
         </h3>
          <ul class="text-lg text-right font-thin ">
-          <li class="pb-3 mr-16 reveal2"><span class=" right-2">Fr. Nosuggio | Cravagliana(VC) 13020 | Italia </span> </li>
+          <li class="pb-3 mr-16 reveal2"><span class="right-2">Fr. Nosuggio | Cravagliana(VC) 13020 | Italia </span> </li>
           <li class="pb-3 mr-16 reveal2"><span>P.Iva:</span> <span class=" right-2">123456789</span> </li>
           <li class="pb-3 mr-16 reveal2"><span>Email:</span> <a class="hover:text-yellow-700" href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a></li>
           <li class="pb-3 mr-16 reveal2"><span>Telefono:</span> <span class=" right-2">+39 3286949075</span> </li>
