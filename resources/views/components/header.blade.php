@@ -7,7 +7,7 @@
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('home')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/home">Home</a></li>
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('prodotti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/prodotti">Prodotti</a></li>
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('creazioni')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Creazioni</a></li>
-        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Contatti</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/contatti">Contatti</a></li>
     </ul>
     <div class="logo">
         <a href="/home">
@@ -20,7 +20,7 @@
             <a class ="  hover:text-white p-2"  href=""><i class="fab fa-instagram fa-lg"></i></a>
             <a class ="  hover:text-white p-2"  href=""><i class="fab fa-whatsapp  fa-lg"></i></a>
         </span> --}}
-        
+
     </div>
     <div class="hamburger">
         <span></span>
@@ -35,11 +35,11 @@
             “Credo che avere la terra e non rovinarla <br>
             sia la più bella forma d'arte <br>
              che si possa desiderare” <br>
-          
-            <span class="text-base absolute mt-5 md:pos-top3 md:pos-left3 "> - Andy Warhol - </span> 
 
-        </p> 
-        
+            <span class="text-base absolute mt-5 md:pos-top3 md:pos-left3 "> - Andy Warhol - </span>
+
+        </p>
+
     </div>
     <video autoplay  muted loop id="video-back" class="max-w-none">
          <source src="/img/CoverVideo.mp4" type="video/mp4">

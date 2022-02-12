@@ -4,7 +4,7 @@
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('home')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/home">Home</a></li>
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('prodotti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/prodotti">Prodotti</a></li>
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('creazioni')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Creazioni</a></li>
-        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Contatti</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/contatti">Contatti</a></li>
     </ul>
     <div class="logo1">
         <a href="/home">
@@ -17,7 +17,7 @@
             <a class ="  hover:text-white p-2"  href=""><i class="fab fa-instagram fa-lg"></i></a>
             <a class ="  hover:text-white p-2"  href=""><i class="fab fa-whatsapp  fa-lg"></i></a>
         </span> --}}
-        
+
     </div>
     <div class="hamburger">
         <span></span>

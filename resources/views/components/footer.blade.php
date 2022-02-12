@@ -26,14 +26,14 @@
           <li class="pb-3 mr-16 reveal2"><span>Email:</span> <a class="hover:text-yellow-700" href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a></li>
           <li class="pb-3 mr-16 reveal2"><span>Telefono:</span> <span class=" right-2">+39 3286949075</span> </li>
         </ul>
-      </div>    
+      </div>
   </div>
   <div class="grid md:grid-cols-2 text-sm  m-top3 ">
     <div >
       <p class="text-white text-left ml-16 font-thin">&copy;copyright @php echo date('Y'); @endphp AziendaAgricola Val Mastallone srl</p>
     </div>
     <div >
-      <p class="text-white text-right mr-16 font-thin">powered by Cauzzi Stefano</p> 
+      <p class="text-white text-right mr-16 font-thin">Handmade coded by <a href="mailto:cauzzistefano@icloud.com" class="hover:text-yellow-700">Cauzzi Stefano</a> </p>
     </div>
   </div>
 </div>
