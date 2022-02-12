@@ -1,7 +1,7 @@
 /* HEADER SECTION  */
 .header{
     padding: 10px 85px;
-    max-width: 1536px;
+    //max-width: 1536px;
     left: 50%;
     transform: translateX(-50%);
     z-index: 10;
@@ -21,24 +21,24 @@
     opacity:0;
     transition: all 1s cubic-bezier(.215, .61, .355, 1);
     }
- 
+
 
 
 .attiva .header:after{
     opacity:1;
 }
- 
+
 .logo{
-    z-index:1; 
+    z-index:1;
     filter:invert(1);
     transition: all 0.5s cubic-bezier(.355, .61, .215, 1);
 }
 
 .inverti .logo{
     width:80px;
-    filter:invert(0);  
-    
-    
+    filter:invert(0);
+
+
 }
 
 
@@ -49,7 +49,7 @@
     span{
         transition: all 1s cubic-bezier(.215, .61, .355, 1);
     }
-   
+
 }
 
 .attiva .cta span{
@@ -69,7 +69,7 @@
             display:block;
             padding:10px 0px;
             margin: 0 15px
-        }  
+        }
     }
 }
 
@@ -81,9 +81,9 @@
 
 
 
-@media (max-width:768px){ 
+@media (max-width:768px){
     .cta{display: none;}
-    .menu{  
+    .menu{
             position:absolute;
             top:0;
             right:-100%;
@@ -93,7 +93,7 @@
             width: 100%;
             opacity:1;
             li{
-                display: block;             
+                display: block;
                 a{
                     padding: 15px 30px;
                     font-size: 28px;
@@ -120,7 +120,7 @@
             margin-bottom: 5px;
         }
      }
-     
+
 }
 /* Only for header-second  */
 
@@ -132,17 +132,17 @@
 
 .inverti .logo1{
     width:80px;
-    filter:invert(0);   
-    
+    filter:invert(0);
+
 }
 
 
 /* Hero  */
 
-.hero{   
+.hero{
     height: 100vh;
     display: flex; width:100%; align-items:center;
-    // background: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.7)), 
+    // background: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.7)),
     //             url('/img/cover.png') no-repeat center center;
     // background-size: cover;
     overflow: hidden;
@@ -161,7 +161,7 @@
     opacity: 0.5;
 }
 
-.hero__content{  
+.hero__content{
     width: 100%;
     max-width: 1350px;
     margin: 0 auto;
