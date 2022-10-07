@@ -1,9 +1,13 @@
 @section('title')Home @endsection
+<<<<<<< HEAD
 <div class="header w-full fixed top-0 left-0 flex mx-auto justify-between lg:max-w-7xl">
+=======
+<div class="header w-full fixed top-0 left-0 flex mx-auto justify-between ">
+>>>>>>> cbac15cf3d483706e0880a0b5b1846a5b94de090
     {{-- <div class="logo">
         <img src="/img/logoVM_small.png" alt="">
     </div> --}}
-    <ul class="menu md:flex reveal items-center">
+    <ul class="menu md:flex reveal items-center lg:max-w-screen-2xl">
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('home')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/home">Home</a></li>
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('prodotti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/prodotti">Prodotti</a></li>
         <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('creazioni')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Creazioni</a></li>

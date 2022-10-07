@@ -112,22 +112,7 @@
 
       <div class="">
         <div class="max-w-2xl mx-auto py-24 px-4 grid items-center grid-cols-1 gap-y-16 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
-          <div class="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
           
-            <img src="/img/zafferano.jpg" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg mt-8 zoom">
-            <img src="/img/zafferano1.jpg" alt="Top down view of walnut card tray with embedded magnets and card groove." class="bg-gray-100 rounded-lg mt-8 zoom">
-            <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom">
-            <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom">
-            <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom">
-            <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom">
-
-
-
-
-
-
-            
-          </div>
           <div>
             <h2 class="text-3xl font-extrabold uppercase tracking-tight second-text-color sm:text-4xl reveal2 ">Miele e Zafferano</h2>
             <p class="mt-4 leading-loose text-gray-500 reveal2">
@@ -159,6 +144,16 @@
                 <dd class="mt-2 text-sm text-gray-500">Hand sanded and finished with natural oil</dd>
               </div>
             </dl>
+          </div>
+          <div class="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
+          
+            <img src="/img/zafferano.jpg" alt="Walnut card tray with white powder coated steel divider and 3 punchout holes." class="bg-gray-100 rounded-lg mt-8 zoom">
+            <img src="/img/zafferano1.jpg" alt="Top down view of walnut card tray with embedded magnets and card groove." class="bg-gray-100 rounded-lg mt-8 zoom">
+            {{-- <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
+            {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
+            {{-- <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
+            {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
+
           </div>
         </div>
           <div class="grid grid-cols-1 gap-y-16 gap-x-8 max-w-2xl mx-auto py-24 px-4 items-center lg:max-w-7xl lg:px-8 lg:grid-cols-4 border-t border-b border-gray-400">
