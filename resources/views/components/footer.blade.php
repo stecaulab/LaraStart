@@ -3,10 +3,10 @@
       <div class="w-full m-top2">
         <h3 class="text-left ml-16 font-medium second-color reveal2">Mappa del Sito</h3>
         <ul class="text-xl font-thin">
-          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="">Home</a></li>
-          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="">Prodotti</a></li>
-          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="">Creazioni</a></li>
-          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="">Contatti</a></li>
+          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="/home">Home</a></li>
+          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="/prodotti">Prodotti</a></li>
+          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="/creazioni">Creazioni</a></li>
+          <li class="pb-3 ml-16 reveal2"> <a class ="hover:text-yellow-700"href="/contatti">Contatti</a></li>
         </ul>
       </div>
       <div class="w-full m-top2">
@@ -30,7 +30,7 @@
   </div>
   <div class="grid md:grid-cols-2 text-sm  m-top3 ">
     <div >
-      <p class="text-white text-left ml-16 font-thin">&copy;copyright @php echo date('Y'); @endphp AziendaAgricola Val Mastallone srl</p>
+      <p class="text-white text-left ml-16 font-thin">&copy;copyright @php echo date('Y'); @endphp AziendaAgricola Val Mastallone di Federica Ferro</p>
     </div>
     <div >
       <p class="text-white text-right mr-16 font-thin">Handmade coded by <a href="mailto:cauzzistefano@icloud.com" class="hover:text-yellow-700">Cauzzi Stefano</a> </p>

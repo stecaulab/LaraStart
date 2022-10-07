@@ -18,7 +18,7 @@
         </p>
 
         <h4 class="med-l-text uppercase text-white show">Packaging Ecologico</h4>
-        <p class="text-lg text-white w-4/6 show">Anche per le nostre confezioni natalizie o bomboniere abbiamo scelto di utulizzare carta riciclata proveniente da foreste sostenibili.
+        <p class="text-lg text-white w-4/6 show">Anche per le nostre confezioni natalizie o bomboniere abbiamo scelto di utilizzare carta riciclata proveniente da foreste sostenibili.
         </p>
     </div>
 

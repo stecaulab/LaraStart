@@ -1,5 +1,5 @@
 @section('title')Home @endsection
-<div class="header w-full fixed top-0 left-0 flex mx-auto justify-between">
+<div class="header w-full fixed top-0 left-0 flex mx-auto justify-between lg:max-w-7xl">
     {{-- <div class="logo">
         <img src="/img/logoVM_small.png" alt="">
     </div> --}}

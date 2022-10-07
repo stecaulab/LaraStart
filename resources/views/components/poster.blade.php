@@ -17,14 +17,13 @@
         
     </div>
     <div class="poster__content pt-4 pb-4 pl-5 pr-5 md:w-2/5  w-full reveal">
-        <h3 class="med-text font-semibold second-text-color">La Nosta Avventura </h3>
+        <h3 class="med-text font-semibold second-text-color m-top2">La Nosta Avventura </h3>
         <p class="text-lg font-thin text-black">Nel cuore della Val Mastallone, nella piccola frazione di Nosuggio nasce la nostra avventura. <br>
-
-            Siamo <b>Federica</b> e <b>Claudio</b> e la passione che condividiamo per la natura e l'aria di montagna ci ha portati qui, a 665 m di altitudine, in un luogo incantato.
+ 
+            Siamo <b>Federica</b> e <b>Claudio</b> e la passione che condividiamo per la natura e l'aria di montagna ci ha portati qui, a 665 m di altitudine, in un luogo incantato.<br>
             Questo posto e le persone che lo vivono ci hanno ispirati a trovare la nostra missione: <br>
-            Recuperare campi ed orti in disuso coltivando in maniera sostenibile, consapevoli che fare agricoltura in montagna non sarebbe stato semplice, non ci siamo fermati ed abbiamo proseguito nella realizzazione di un sogno. <br>
-            Lavorare in sinergia con la natura è il nostro modo di rendere omaggio al posto in cui viviamo, ed è il nostro ringraziamento a tutte quelle persone che ci hanno accolti con calore ed affetto. <br>
-            Un'agricoltura sostenibile è una vera e propria collaborazione con la natura che riesce ad arricchire il terreno, nutrendolo e stimolandone la biodiversità, in modo da lasciare un domani un posto ancor migliore in cui vivere.
+            Recuperare campi ed orti in disuso coltivando in maniera sostenibile,creando una vera e propria collaborazione con la natura che ci permette di arricchire il terreno,
+            nutrendolo e stimolandone la biodiversità, in modo da lasciare un domani un posto ancor migliore in cui vivere.
         </p>
         {{-- <a href="" class="button">Call To Action</a> --}}
     </div>
