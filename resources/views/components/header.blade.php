@@ -1,6 +1,10 @@
 @section('title')Home @endsection
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div class="header w-full fixed top-0 left-0 flex mx-auto justify-between lg:max-w-7xl">
+=======
+<div class="header w-full fixed top-0 left-0 flex mx-auto justify-between ">
+>>>>>>> cbac15cf3d483706e0880a0b5b1846a5b94de090
 =======
 <div class="header w-full fixed top-0 left-0 flex mx-auto justify-between ">
 >>>>>>> cbac15cf3d483706e0880a0b5b1846a5b94de090
