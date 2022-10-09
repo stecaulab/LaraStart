@@ -6,19 +6,19 @@
 
     </x-header>
 
-     <x-poster>
+    <x-poster>
 
-         {{-- Includo poster --}}
+        {{-- Includo poster --}}
 
-     </x-poster>
+    </x-poster>
 
-     <x-bgcover>
+    <x-bgcover>
 
         {{-- includo cover image + testo su 2 colonne --}}
-        
-     </x-bgcover>
 
-         {{-- includo slider card --}}
+    </x-bgcover>
+
+    {{-- includo slider card --}}
 
     <x-slider-card>
         {{-- includo slider card --}}

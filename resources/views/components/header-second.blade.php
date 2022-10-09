@@ -1,13 +1,17 @@
 <div class="attiva header w-full fixed top-0 left-0 flex mx-auto justify-between">
     <ul class="menu md:flex reveal items-center">
-        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('home')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/home">Home</a></li>
-        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('prodotti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/prodotti">Prodotti</a></li>
-        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('creazioni')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="">Creazioni</a></li>
-        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ (request()->is('contatti')) ? 'actived hvr-underline-from-center-attiva' : '' }}" href="/contatti">Contatti</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('home') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+                href="/home">Home</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('prodotti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+                href="/prodotti">Prodotti</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('collaborazioni') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+                href="">Collaborazioni</a></li>
+        <li><a class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('contatti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+                href="/contatti">Contatti</a></li>
     </ul>
     <div class="logo1">
         <a href="/home">
-            <img src="/img/logo_VM.svg" alt="AziendaAgricolaValMastallone(VC)">
+            <img src="/img/logo_VM.svg" loading="lazy" alt="AziendaAgricolaValMastallone(VC)">
         </a>
     </div>
     <div class="cta flex items-center justify-end">
