@@ -1,7 +1,7 @@
-<div class="bgcover relative flex flex-wrap h-auto p-top2 p-bott2 m-top3">
+<div class="bgcover container mx-auto relative flex flex-wrap h-auto p-top2 p-bott2 m-top3">
 
     <div class="bgcover__title w-full md:w-3/6 flex items-center pl-8 pr-8 p-top1 show2">
-        <h2 class=" text-white text-center uppercase">Sostenibilità <br>a 360° </h2>
+        <h2 class=" text-base text-white text-center uppercase">Sostenibilità <br>a 360° </h2>
 
     </div>
 

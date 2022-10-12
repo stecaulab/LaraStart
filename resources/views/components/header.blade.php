@@ -21,11 +21,6 @@
         </a>
     </div>
     <div class="cta flex items-center justify-end">
-        {{-- <span class="inline-block mr-5 opacity-0">
-            <a class ="  hover:text-white p-2"  href=""><i class="fab fa-facebook-f fa-lg"></i></a>
-            <a class ="  hover:text-white p-2"  href=""><i class="fab fa-instagram fa-lg"></i></a>
-            <a class ="  hover:text-white p-2"  href=""><i class="fab fa-whatsapp  fa-lg"></i></a>
-        </span> --}}
 
     </div>
     <div class="hamburger">
@@ -34,10 +29,10 @@
         <span></span>
     </div>
 </div>
-<div class="hero relative">
+<div class="hero flex">
     <div class="hero__content reveal">
         {{-- <p class=" font-bold uppercase mt-20 md:text-2xl md:mt-12 ">Agricoltura Sostenibile</p> --}}
-        <p class="relative text-lg mt-20 pr-2.5 pl-2.5 text-white md:text-6xl md:leading-relaxed">
+        <p class="text-lg mt-5 pr-2.5 pl-2.5 text-white md:text-6xl md:leading-relaxed">
             “Credo che avere la terra e non rovinarla <br>
             sia la più bella forma d'arte <br>
             che si possa desiderare” <br>
@@ -47,7 +42,7 @@
         </p>
 
     </div>
-    <video autoplay muted loop id="video-back">
+    <video autoplay muted loop id="video-back" class="">
         <source src="/img/CoverVideo.mp4" type="video/mp4">
     </video>
 </div>
