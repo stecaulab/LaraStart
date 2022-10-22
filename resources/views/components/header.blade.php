@@ -191,7 +191,7 @@
     <source src="/img/coverVideoAE.mp4" type="video/mp4">
 </video>
 
-<div class="section watch relative top-64 z-40  w-full">
+<div class="section watch relative top-64 z-40 w-full flex">
     <h1 class=" title text-white big-text italic w-full h-1/6 text-center flex justify-center items-center">
         “Credo che avere la terra e non rovinarla <br>
         sia la più bella forma d'arte <br>
