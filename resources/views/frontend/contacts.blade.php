@@ -1,10 +1,10 @@
 <x-layout-base>
 
-    <x-header-second>
+     <x-header-second> 
 
         {{-- Includo header --}}
 
-    </x-header-second>
+     </x-header-second>
 
     <x-contact>
         {{-- Includo sexione contatti --}}
