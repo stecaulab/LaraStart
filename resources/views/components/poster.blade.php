@@ -1,4 +1,4 @@
-<div class=" position relative mt-96 flex flex-wrap w-full container mx-auto md:h-screen h-auto">
+<div class="relative mt-96 flex pt-16 flex-wrap w-full container mx-auto md:h-screen h-auto">
     <div class="pt-4 pb-4 pl-5 pr-5 md:w-2/5 w-full reveal">
         <h3 class="med-text font-semibold second-text-color lg:mt-8">La Nosta Avventura </h3>
         <p class="text-lg font-thin text-black">Nel cuore della Val Mastallone, nella piccola frazione di Nosuggio nasce

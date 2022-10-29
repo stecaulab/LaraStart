@@ -188,7 +188,7 @@ p {
 
 @media (max-width:768px) {
     .big-text {
-        font-size: 40px;
+        font-size: 26px;
     }
 
     .intro-text {
@@ -205,4 +205,15 @@ p {
         font-size: 40px;
         line-height: 3rem;
     }
+
+    .small-text {
+        font-size: 12px;
+    }
+
+    .actived {
+        color: #000;
+        font-size: 20px;
+    }
+
+    
 }
