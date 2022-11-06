@@ -1,10 +1,15 @@
 <header
-    class="header2 w-full z-40 fixed top-0 left-0 flex mx-auto justify-between
-             after:absolute after:top-0 after:left-0 after:h-36 after:w-full after:z-30 
-              after:bg-gradient-to-b from-[#d1d0cc] via-[#d1d0cc] 
-            after:transition-all after:duration-100 after:ease-[cubic-bezier(0.215, 0.61, 0.355, 1)]">
-    <div class="container flex justify-between w-full max-w-6xl mx-auto ">
-        <div class="logo invert-0 z-40 mt-3 transition-all duration-75 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]">
+    class="header top-0 left-0 z-50 flex fixed md:w-full md:z-40  md:top-0 md:left-0  md:mx-auto md:justify-between
+    after:fixed after:top-0 after:left-0 after:h-32 after:w-full after:z-30 
+    after:bg-gradient-to-b from-[#ffffff] via-[#ffffff] to-transparent
+  after:transition after:duration-500 after:ease-[cubic-bezier(0.215, 0.61, 0.355, 1)]
+             md:after:absolute md:after:top-0 md:after:left-0 md:after:h-32 md:after:w-full md:after:z-30 
+              md:after:bg-gradient-to-b md:from-[#d1d0cc] md:via-[#e1e0dd] md:to-transparent
+            md:after:transition md:after:duration-500 md:after:ease-[cubic-bezier(0.215, 0.61, 0.355, 1)]">
+    <div class="container flex justify-between w-full  md:max-w-6xl md:mx-auto md:items-center">
+        <div
+            class="logo ml-4 invert-0 z-50 mt-3 transition-all duration-75 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
+                    md:ml-0 md:mt-3 md:z-50 md:transition-all md:duration-75 md:ease-[cubic-bezier(0.355, 0.61, 0.215, 1)">
             <a href="/home">
                 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="70.000000pt" height="70.000000pt"
                     viewBox="0 0 198.000000 198.000000" preserveAspectRatio="xMidYMid meet">
@@ -150,18 +155,21 @@
             </a>
         </div>
         <ul
-            class=" z-40 md:mt-3 md:flex md:items-center lg:max-w-screen-2xl transition: all 2s cubic-bezier(0.355, 0.61, 0.215, 1) reveal">
-            <li class="md:ml-4 md:mr-4 pl-3 pr-3"><a
-                    class="text-white  md:text-black  md:pl-3 md:uppercase hvr-underline-from-center {{ request()->is('home') ? 'actived hvr-underline-from-center-attiva' : '' }}"
-                    href="/home">Home</a></li>
-            <li class="md:ml-4 md:mr-4 pl-3 pr-3"><a
-                    class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('prodotti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+            class="menu top-10 z-40 w-full bg-white left-0 fixed h-0 overflow-hidden transition-all duration-700 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
+                    md:static md:h-full md:max-w-2xl md:bg-transparent md:top-0 md:z-40 md:left-32
+                    md:mt-3 md:flex md:items-center lg:flex lg:justify-center lg:max-w-screen-2xl">
+            <li class="pt-24 pb-3 ml-9 md:top-0 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pt-5 md:pb-0">
+                <a class=" normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('home') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+                    href="/home">Home</a>
+            </li>
+            <li class="pt-5 pb-3 ml-9 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pb-0"><a
+                    class="normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('prodotti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
                     href="/prodotti">Prodotti</a></li>
-            <li class="md:ml-4 md:mr-4 pl-3 pr-3"><a
-                    class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('collaborazioni') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+            <li class="  pt-5 pb-3 ml-9 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pb-0"><a
+                    class="normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('collaborazioni') ? 'actived hvr-underline-from-center-attiva' : '' }}"
                     href="">Collaborazioni</a></li>
-            <li class="md:ml-4 md:mr-4 pl-3 pr-3"><a
-                    class="text-white md:text-black uppercase hvr-underline-from-center {{ request()->is('contatti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+            <li class="  pt-5 pb-3 ml-9 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pb-0"><a
+                    class="normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('contatti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
                     href="/contatti">Contatti</a></li>
         </ul>
 
@@ -174,10 +182,10 @@
                     fill="#fff" />
             </svg>
         </div>
-        <div class="hamburger">
-            <span></span>
-            <span></span>
-            <span></span>
+        <div class="hamburger relative h-12 w-12 top-10 left-48 z-50 mr-3 md:hidden  ">
+            <span class="h-px w-7 mt-2 relative block bg-black"></span>
+            <span class="h-px w-7 mt-2 relative block bg-black"></span>
+            <span class="h-px w-7 mt-2 relative block bg-black"></span>
         </div>
 
     </div>

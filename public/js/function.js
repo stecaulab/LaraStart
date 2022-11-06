@@ -1,14 +1,32 @@
-//Toggle class for device menu
+//Toggle class for device menu hamburger
 
-$(document).ready(function () {
-  // Open Panel
-  $(".hamburger").on('click', function () {
-    $(".menu").toggleClass("menu--open");
-  });
+let ham = document.querySelector('.hamburger');
+let items = document.querySelector('.menu');
+
+
+ham.addEventListener("click", function () {
+
+  document.body.classList.toggle('menu-open');
+
+  if (items.classList.contains('h-0')) {
+
+    items.classList.remove('h-0');
+    items.classList.add('h-screen', 'p-4');
+
+
+
+  } else {
+
+    items.classList.remove('h-screen', 'p-4');
+    items.classList.add('h-0');
+
+  }
 
 });
 
+
 // FUNCTION FOR NAVBAR SCROLL 
+
 window.addEventListener('scroll', () => {
 
 

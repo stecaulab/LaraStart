@@ -34,12 +34,23 @@
     opacity: 1;
 }
 
+.menu-open .hamburger span:nth-child(1) {
 
-.hamburger {
-    
+    transform: rotate(45deg) translateY(6px);
+
 }
 
+.menu-open .hamburger span:nth-child(3) {
 
+
+    transform: translateY(-15px);
+    width: 0px;
+}
+
+.menu-open .hamburger span:nth-child(2) {
+
+    transform: rotate(-45deg) translateY(-7px);
+}
 
 // @media (max-width:768px) {
 
@@ -104,6 +115,7 @@
         font-weight: 300;
         opacity: 1;
     }
+
 }
 
 //Animation and Transition

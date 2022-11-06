@@ -31,6 +31,19 @@
   opacity: 1;
 }
 
+.menu-open .hamburger span:nth-child(1) {
+  transform: rotate(45deg) translateY(6px);
+}
+
+.menu-open .hamburger span:nth-child(3) {
+  transform: translateY(-15px);
+  width: 0px;
+}
+
+.menu-open .hamburger span:nth-child(2) {
+  transform: rotate(-45deg) translateY(-7px);
+}
+
 /* Hero  */
 @media (max-width: 768px) {
   .header {
@@ -86,23 +99,8 @@
 
 /* POSTER SECTION  */
 .bgcover {
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url("/img/bgcover.jpg") no-repeat center center;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url("/img/saffron_1.jpg") no-repeat center center;
   background-size: cover;
-}
-.bgcover .bgcover__title {
-  z-index: 0;
-}
-.bgcover .bgcover__title h2 {
-  font-family: "Heebo", sans-serif;
-  font-size: 80px;
-  font-weight: 200;
-}
-.bgcover .bgcover__text {
-  z-index: 0;
-}
-.bgcover .bgcover__text h4 {
-  font-family: "Heebo", sans-serif;
-  font-weight: 200;
 }
 
 .footer {

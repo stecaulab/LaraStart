@@ -1,6 +1,6 @@
 <div class="product m-top3 m-bott2">
-    @section('title','Prodotti')
-       
+    @section('title', 'Prodotti')
+
     <!-- zafferano ---------------------------------------------------------------------------------------------------------------------  -->
 
     <div class="mb-8">
@@ -84,7 +84,7 @@
                             <span class="text-pink-800 max-auto"><i
                                     class=" mt-5 fas fa-envelope-open-text fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Invia un email all'indirizzo:
-                                <a class="hover:text-yellow-700"
+                                <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
                                     href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
                             </h3>
                         </div>
@@ -98,8 +98,8 @@
                             <span class="text-pink-800 max-auto"><i class=" mt-5 fab fa-whatsapp fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 Whatsapp:
-                                <a class="hover:text-yellow-700"
-                                    href="https://api.whatsapp.com/send?phone=+3932863949075">+3932863949075</a>
+                                <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
+                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>
@@ -123,7 +123,8 @@
         <div
             class="max-w-2xl mx-auto px-4 grid grid-cols-1  gap-y-16 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
             <div>
-                <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
+                <h2
+                    class="text-3xl mt-10 font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Miele & Zafferano</h2>
                 <p class="mt-4 leading-loose text-gray-500 reveal2">
                     Tra le nostre sinergie spicca l'incontro tra Miele e Zafferano di montagna, in cui gli ingredienti
@@ -188,7 +189,7 @@
                             <span class="text-pink-800 max-auto"><i
                                     class=" mt-5 fas fa-envelope-open-text fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Invia un email all'indirizzo:
-                                <a class="hover:text-yellow-700"
+                                <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
                                     href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
                             </h3>
                         </div>
@@ -203,8 +204,8 @@
                                     class=" mt-5 fab fa-whatsapp fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 Whatsapp:
-                                <a class="hover:text-yellow-700"
-                                    href="https://api.whatsapp.com/send?phone=3483584908">+3932863949075</a>
+                                <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
+                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>
@@ -228,7 +229,8 @@
         <div
             class="max-w-2xl mx-auto px-4 grid grid-cols-1  gap-y-16 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
             <div>
-                <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
+                <h2
+                    class="text-3xl mt-10 font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Aceto di Mele</h2>
                 <p class="mt-4 leading-loose text-gray-500 reveal2">
                     Direttamente dal nostro frutteto, che curiamo ogni giorno con la massima attenzione,cogliamo mele al
@@ -292,7 +294,7 @@
                             <span class="text-pink-800 max-auto"><i
                                     class=" mt-5 fas fa-envelope-open-text fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Invia un email all'indirizzo:
-                                <a class="hover:text-yellow-700"
+                                <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
                                     href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
                             </h3>
                         </div>
@@ -307,8 +309,8 @@
                                     class=" mt-5 fab fa-whatsapp fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 Whatsapp:
-                                <a class="hover:text-yellow-700"
-                                    href="https://api.whatsapp.com/send?phone=3483584908">+3932863949075</a>
+                                <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
+                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>

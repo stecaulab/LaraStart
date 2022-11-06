@@ -10,4 +10,7 @@
         {{-- Includo sexione contatti --}}
     </x-contact>
 
+    <x-footer>
+    </x-footer>
+
 </x-layout-base>
