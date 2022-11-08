@@ -5,7 +5,7 @@
             <ul class="text-center md:text-left text-xl font-thin">
                 <li class="pb-3 md:ml-16 reveal2"> <a class="hover:text-yellow-700" href="/home">Home</a></li>
                 <li class="pb-3 md:ml-16 reveal2"> <a class="hover:text-yellow-700" href="/prodotti">Prodotti</a></li>
-                <li class="pb-3 md:ml-16 reveal2"> <a class="hover:text-yellow-700" href="/creazioni">Creazioni</a></li>
+                <li class="pb-3 md:ml-16 reveal2"> <a class="hover:text-yellow-700" href="/collaborazioni">Collaborazioni</a></li>
                 <li class="pb-3 md:ml-16 reveal2"> <a class="hover:text-yellow-700" href="/contatti">Contatti</a></li>
             </ul>
         </div>

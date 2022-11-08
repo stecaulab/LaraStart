@@ -21,4 +21,4 @@ Route::get('/', function () {
 Route::get('/home', [PageController::class, 'index']);
 Route::get('/contatti', [PageController::class, 'contacts']);
 Route::get('/prodotti', [PageController::class, 'single']);
-
+Route::get('/collaborazioni', [PageController::class, 'collaborazioni']);

@@ -171,7 +171,7 @@
                     href="/prodotti">Prodotti</a></li>
             <li class="  pt-5 pb-3 ml-9 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pb-0"><a
                     class="normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('collaborazioni') ? 'actived hvr-underline-from-center-attiva' : '' }}"
-                    href="">Collaborazioni</a></li>
+                    href="/collaborazioni">Collaborazioni</a></li>
             <li class="  pt-5 pb-3 ml-9 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pb-0"><a
                     class="normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('contatti') ? 'actived hvr-underline-from-center-attiva' : '' }}"
                     href="/contatti">Contatti</a></li>

@@ -17,9 +17,10 @@
         <dl class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-1 sm:gap-y-16 lg:gap-x-8">
             <div class="text-center  reveal2">
                 <dt class="font-medium">Federica Ferro</dt>
-                <dd class="italic">telefono: +39 3286949075</dd>
-                <dd class="italic"><a class="text-yellow-700  md:hover:font-semibold"
-                        href="mailto:aziendaagricolavalmastallone@gmail.com">email:aziendaagricolavalmastallone@gmail.com</a>
+                <dd class="italic">telefono:<a class="text-yellow-700  md:hover:font-semibold"
+                        href="https://api.whatsapp.com/send?phone=+393286949075">+39 3286949075</a> </dd>
+                <dd class="italic">email:<a class="text-yellow-700  md:hover:font-semibold"
+                        href="mailto:aziendaagricolavalmastallone@gmail.com">aziendaagricolavalmastallone@gmail.com</a>
                 </dd>
                 <dd class="italic">Nosuggio - Vercelli</dd>
             </div>

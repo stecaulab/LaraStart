@@ -37,7 +37,10 @@
 </head>
 
 <body class="h-full">
-    {{ $slot }}
+    <main>
+        {{ $slot }}
+    </main>
+   
 </body>
 
 {{-- ADD JQUERY CDN --}}

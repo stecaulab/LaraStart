@@ -99,7 +99,7 @@
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 Whatsapp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
+                                    href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                     Uno scrigno prezioso dalla mille riisorse, che vi permetterà di viaggiare con la fantasia creando
                     incucina infinite combinazioni, dai formaggi, <br>
                     allo yogurt, al gelato o semplicemente col pane appena sfornato. <br>
-                    Vogliamo regalarVi il gusto di un prodotto che rispetta l'ambiente e tutti i suoi abitanti'.
+                    Vogliamo regalarVi il gusto di un prodotto che rispetta l'ambiente e tutti i suoi abitanti.
                 </p>
 
                 <dl class="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8 reveal2">

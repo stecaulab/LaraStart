@@ -20,4 +20,8 @@ class PageController extends Controller
     {
         return view('frontend.single');
     }
+    public function collaborazioni()
+    {
+        return view('frontend.collaborazioni ');
+    }
 }
