@@ -9,7 +9,8 @@
             - Tel: <a href="https://api.whatsapp.com/send?phone=+3932863949075"
                 class="text-yellow-700  md:hover:font-semibold">+3932863949075</a>
             -
-            <a href="" class="text-yellow-700  md:hover:font-semibold">Facebook</a> - <a href=""
+            <a href="https://www.facebook.com/AziendaAgricolaValmastallone" class="text-yellow-700  md:hover:font-semibold">Facebook</a> - 
+            <a href="https://instagram.com/azienda_agricola_valmastallone?igshid=YmMyMTA2M2Y="
                 class="text-yellow-700  md:hover:font-semibold">Instagram</a>
         </div>
     </div>

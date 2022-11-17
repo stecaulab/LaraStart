@@ -9,7 +9,7 @@
             <div>
                 <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Zafferano di Montagna</h2>
-                <p class="mt-4 leading-loose text-gray-500 reveal2">
+                <p class="mt-4 text-lg leading-loose text-gray-500 reveal2">
                     Coltivato secondo il metodo Bio Sinergico Consapevole, lungo le sponde del torrente Mastallone nasce
                     lo Zafferano di Montagna. <br>
                     Cresce forte e rigoglioso a 665msl circondato da verdi montagne e respira l'aria pura e frizzante
@@ -126,7 +126,7 @@
                 <h2
                     class="text-3xl mt-10 font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Miele & Zafferano</h2>
-                <p class="mt-4 leading-loose text-gray-500 reveal2">
+                <p class="mt-4 text-lg leading-loose text-gray-500 reveal2">
                     Tra le nostre sinergie spicca l'incontro tra Miele e Zafferano di montagna, in cui gli ingredienti
                     fondono leloro proprietà
                     organolettiche per donare un prodotto dal colore, profumo e sapore intensi. <br>
@@ -232,7 +232,7 @@
                 <h2
                     class="text-3xl mt-10 font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Aceto di Mele</h2>
-                <p class="mt-4 leading-loose text-gray-500 reveal2">
+                <p class="mt-4 text-lg leading-loose text-gray-500 reveal2">
                     Direttamente dal nostro frutteto, che curiamo ogni giorno con la massima attenzione,cogliamo mele al
                     100% ValMastallone. <br>
                     Esse si trasformano e concentrano tutte le loro sostanzepreziose in un condimento dal colore ambrato

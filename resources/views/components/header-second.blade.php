@@ -4,7 +4,7 @@
     after:bg-gradient-to-b from-[#ffffff] via-[#ffffff] to-transparent
   after:transition after:duration-500 after:ease-[cubic-bezier(0.215, 0.61, 0.355, 1)]
              md:after:absolute md:after:top-0 md:after:left-0 md:after:h-32 md:after:w-full md:after:z-30 
-              md:after:bg-gradient-to-b md:from-[#d1d0cc] md:via-[#e1e0dd] md:to-transparent
+              md:after:bg-gradient-to-b md:from-[#ffffff] md:via-[#e1e0dd] md:to-transparent
             md:after:transition md:after:duration-500 md:after:ease-[cubic-bezier(0.215, 0.61, 0.355, 1)]">
     <div class="container flex justify-between w-full  md:max-w-6xl md:mx-auto md:items-center">
         <div

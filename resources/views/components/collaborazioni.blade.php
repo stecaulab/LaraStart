@@ -18,14 +18,14 @@
 </div>
 
 
-<div class="container mx-auto   text-gray-500 md:max-w-5xl md:mt-10">
+<div class="container mx-auto  text-gray-500 md:max-w-5xl md:mt-10">
 
-    <p class="ml-5 mr-5 text-left text-lg mt-3 leading-loose md:text-lg">
+    <p class="ml-5 mr-5 text-left text-lg mt-3 leading-loose md:text-lg reveal2">
         Offriamo l'esperienza di divulgare insieme a noi un messaggio di agricoltura etica e sostenibile, perchè amiamo
         la terra in cui viviamo. <br>
     </p>
 
-    <p class="ml-5 mr-5 text-left text-lg mt-3 leading-loose md:text-lg">
+    <p class="ml-5 mr-5 text-left text-lg mt-3 leading-loose md:text-lg reveal2">
         Per questo è importante portare sulle nostre tavole alimenti coltivati nel rispetto della terra e di tutti i
         suoi
         abitanti. <br>
@@ -37,8 +37,10 @@
         <div class="">
             <h2 class="uppercase font-extrabold text-[#870058] ml-5 text-left text-2xl mt-3 leading-loose">presentazione
             </h2>
-            <p class="ml-5 text-left text-lg mt-2 leading-loose md:text-lg mr-5">
-                Grazie all'intuizione culinaria dello chef <a href=""><b>Andrea Mattasoglio</b></a> vi proponiamo
+            <p class="ml-5 text-left text-lg mt-2 leading-loose md:text-lg mr-5 reveal2">
+                Grazie all'intuizione culinaria dello chef <a class=""
+                    href="https://instagram.com/andrea_mattasoglio?igshid=YmMyMTA2M2Y="><b>Andrea Mattasoglio</b></a> vi
+                proponiamo
                 la
                 ricetta
                 di un
@@ -49,7 +51,7 @@
                 con
                 una minima quantità di prodotto. <br>
             </p>
-            <p class="ml-5 text-left text-lg mt-3 leading-loose md:text-lg">
+            <p class="ml-5 text-left text-lg mt-3 leading-loose md:text-lg reveal2">
                 Ed è 100% <b>ITALIANO!!</b>
             </p>
         </div>
@@ -62,18 +64,18 @@
                 zafferano</h2>
         </div>
 
-        <div class="flex flex-col md:flex-row">
-            <div class="mt-3 md:h-[580px] md:w-[750px]">
+        <div class="flex flex-col md:flex-row mt-3 ml-5 mr-2">
+            <div class=" md:h-[580px] md:w-[750px]">
                 <img src="/img/sfere_di_zafferano.jpg" alt="" class="md:ml-1 md:mr-1">
             </div>
 
-            <div>
-                <ul class="ml-5 mt-8 flex flex-col">
+            <div class="bg-white md:w-[274px]">
+                <ul class="ml-5 pt-8 flex flex-col md:ml-9 md:pt-8 ">
                     <li class="mt-2 mb-2"> <span class="inline-block ">
                             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 viewBox="0 0 219.792 219.792" style="enable-background:new 0 0 219.792 219.792;"
-                                xml:space="preserve" class="h-8 w-8">
+                                xml:space="preserve" class="h-8 w-8 reveal2">
                                 <g>
                                     <path
                                         d="M159.4,25.975c-0.916,0-1.836,0.024-2.759,0.07C146.664,9.856,129.195,0,109.896,0c-19.3,0-36.769,9.856-46.744,26.045
@@ -92,14 +94,14 @@
 
                             </svg>
                         </span>
-                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2">Difficoltà:
+                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2 reveal2">Difficoltà:
                             <strong>Media</strong> </span>
                     </li>
                     <li class="mt-2 mb-2"> <span class="inline-block ">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;"
-                                xml:space="preserve" class="h-8 w-8">
+                                xml:space="preserve" class="h-8 w-8 reveal2">
                                 <g>
 
                                     <path
@@ -119,14 +121,15 @@
 
                             </svg>
                         </span>
-                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2">Preparazione:
+                        <span
+                            class="inline-block ml-2 text-lg text-black font-thin align-top mt-2 reveal2">Preparazione:
                             <strong>3 ore</strong> </span>
                     </li>
                     <li class="mt-2 mb-2"> <span class="inline-block ">
                             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 viewBox="0 0 296.998 296.998" style="enable-background:new 0 0 296.998 296.998;"
-                                xml:space="preserve" class="h-8 w-8">
+                                xml:space="preserve" class="h-8 w-8 reveal2">
                                 <path
                                     d="M296.998,131.288c0-15.047-12.238-27.288-27.281-27.288h-7.355V88.334c0-14.288-11.623-25.911-25.91-25.911h-57.342
                        c-1.426-15.64-14.607-27.935-30.611-27.935s-29.184,12.296-30.609,27.935H60.545c-14.289,0-25.912,11.623-25.912,25.911V104h-7.35
@@ -143,14 +146,14 @@
 
                             </svg>
                         </span>
-                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2">Freezer:
+                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2 reveal2">Freezer:
                             <strong>2 ore</strong> </span>
                     </li>
                     <li class="mt-2 mb-2"> <span class="inline-block ">
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;"
-                                xml:space="preserve" class="h-8 w-8">
+                                xml:space="preserve" class="h-8 w-8 reveal2">
                                 <g>
                                     <g>
                                         <path
@@ -194,13 +197,13 @@
 
                             </svg>
                         </span>
-                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2">Dosi:
+                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2 reveal2">Dosi:
                             <strong>6-8 sfere</strong> </span>
                     </li>
 
                     <li class="mt-2 mb-2"> <span class="inline-block ">
                             <svg width="24px" height="24px" viewBox="0 0 24 24"
-                                xmlns="http://www.w3.org/2000/svg" fill="#dda704" class="h-8 w-8">
+                                xmlns="http://www.w3.org/2000/svg" fill="#dda704" class="h-8 w-8 reveal2">
                                 <g>
                                     <path fill="none" d="M0 0h24v24H0z" fill="#dda704" />
                                     <path
@@ -209,16 +212,89 @@
                                 </g>
                             </svg>
                         </span>
-                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2">Costo:
+                        <span class="inline-block ml-2 text-lg text-black font-thin align-top mt-2 reveal2">Costo:
                             <strong>Medio</strong> </span>
                     </li>
 
                 </ul>
 
-
             </div>
         </div>
     </div>
+    <div class="pt-6">
+        <h3 class="uppercase ml-5 font-extrabold text-xl text-[#870058] text-left mt-5 leading-loose "> ingredienti
+        </h3>
+        <div class=" md:flex md:items-center md:justify-between md:justify-items-stretch">
+            <ul class=" ml-5 flex flex-col md:flex-row md:flex-wrap  md:items-center">
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2   reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Cioccolato bianco
+                    <strong>180g</strong>
+                </li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2  reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Pere <strong>3</strong></li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2  reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Glucosio <strong>75g</strong>
+                </li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 w-1/2  reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Zucchero
+                    <strong>105g</strong>
+                </li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2 reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Gelatina in fogli
+                    <strong>5g</strong>
+                </li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2 reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Latte condensato
+                    <strong>50g</strong>
+                </li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2 reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Argento edibile <strong>1
+                        foglio 4x4cm </strong></li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2 reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Cacao <strong>q.b.</strong>
+                </li>
+                <li class="pb-1 text-lg text-black font-thin md:pr-14 md:w-1/2 reveal2"><i
+                        class="h-8 w-8 fa-solid fa-circle fa-xs text-[#dda704] ml-2 "></i>Zafferano
+                    <strong>q.b.</strong>
+                </li>
+            </ul>
+        </div>
+    </div>
 
-    <h3 class="uppercase ml-5 font-extrabold text-xl text-[#870058] text-left mt-5 leading-loose "> ingredienti</h3>
+    <div class="pt-6 pb-10">
+        <h3 class="uppercase ml-5 font-extrabold text-xl text-[#870058] text-left mt-5 leading-loose "> preparazione
+        </h3>
+        <div class="">
+            <p class="text-left text-lg mt-2 leading-loose ml-5 mr-2 reveal2">Per prima cosa, preparate un pentolino
+                d’acqua
+                bollente e
+                lasciate in infusione lo zafferano per
+                almeno un paio d’ore (più tempo trascorre in infusione, più l’infuso risulterà aromatico e colorato).
+            </p>
+            <p class="text-left text-lg mt-2 leading-loose ml-5 mr-2 reveal2">Fate sciogliere 100g di cioccolato bianco
+                a
+                bagnomaria e
+                inseritelo all’interno di stampi a sfera in
+                silicone. Eliminate l’eccesso di cioccolato capovolgendo gli stampi, dopodiché riponeteli in freezer
+                fino a quando non si saranno rappresi.</p>
+            <p class="text-left text-lg mt-2 leading-loose ml-5 mr-2 reveal2">Preparate una brunoise con le pere e
+                fatele
+                cuocere in un
+                pentolino insieme a 30g di zucchero e
+                all’infuso di zafferano, fino a quando risulteranno morbide. Lasciatele intiepidire e inseritele
+                all’interno delle sfere. A questo punto, riscaldate nuovamente il cioccolato bianco precedentemente
+                sciolto a bagnomaria e utilizzatelo per chiudere le sfere alla base.</p>
+            <p class="text-left text-lg mt-2 leading-loose ml-5 mr-2 reveal2">In un pentolino mettete a scaldare 75g di
+                glucosio, 75g di
+                zucchero e 40ml di infuso allo zafferano
+                fino a bollore. Togliete dal fuoco e unite 5g di gelatina in fogli precedentemente ammollata in acqua
+                fredda e ben strizzata, 50g di latte condensato, i restanti 80g di cioccolato bianco in pezzi.
+                Fate intiepidire la glassa a specchio fino a 30-34 gradi e, una volta tolte le sfere dallo stampo e
+                poste
+                su una grata, versatela su di esse. Ripetete la glassatura fino ad ottenere la sfumatura desiderata.
+                Riponete in freezer almeno un paio d’ore, dopodiché decorate la base con del cacao amaro e la
+                sommità con un brillante di argento edibile. Attendete 20 minuti prima di servirle per riportarle a
+                temperatura.</p>
+        </div>
+    </div>
 </div>
