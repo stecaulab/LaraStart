@@ -34,9 +34,9 @@
                         <dt class="font-medium text-gray-900">Prezzi</dt>
                         <dd class="mt-2 text-sm text-gray-500">
                             <span class="w-12 border border-transparent">Zafferano 0.10g</span> <span
-                                class="w-12 border border-transparent">€ &nbsp; 9.00 (4 porzioni)</span> <br>
+                                class="w-12 border border-transparent">€ &nbsp; 9.00 </span> <br>
                             <span class="w-12 border border-transparent">Zafferano 0.15g</span> <span
-                                class="w-12 border border-transparent">€ 13.00 (6 porzioni)</span> <br>
+                                class="w-12 border border-transparent">€ 13.00 </span> <br>
                             <span class="w-12 border border-transparent">Zafferano 0.25g</span> <span
                                 class="w-12 border border-transparent">€ 20.00</span><br>
                             <span class="w-12 border border-transparent">Zafferano &nbsp; 0.5g</span> <span
@@ -53,9 +53,9 @@
             </div>
             <div class="grid grid-cols-1 grid-rows-2 mt-8 mb-8 gap-4 sm:gap-6 lg:gap-8">
                 {{-- <img src="/img/zafferano1.jpg" alt="zafferano di montagna" class="bg-gray-300 rounded-lg mt-8 mx-auto h-64 zoom "> --}}
-                <img src="/img/zafferano.jpg" loading="lazy" alt="zafferano di montagna"
+                <img src="/img/zafferano.jpg" loading="lazy" alt="zafferano-di-montagna"
                     class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
-                <img src="/img/tris-pack-zoom.jpg" loading="lazy" alt="zafferano di montagna"
+                <img src="/img/tris-pack-zoom.jpg" loading="lazy" alt="zafferano-di-montagna"
                     class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
                 {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
                 {{-- <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
@@ -145,7 +145,7 @@
                         <dt class="font-medium text-gray-900">Prezzi</dt>
                         <dd class="mt-2 text-sm text-gray-500">
                             <span class="w-12 border border-transparent">Zafferano 250g</span> <span
-                                class="w-12 border border-transparent">€15.00 (4 porzioni)</span> <br>
+                                class="w-12 border border-transparent">€15.00 </span> <br>
 
 
                         </dd>
@@ -158,9 +158,9 @@
             </div>
             <div class="grid grid-cols-1 grid-rows-2 mt-8 mb-8 gap-4 sm:gap-6 lg:gap-8">
                 {{-- <img src="/img/zafferano1.jpg" alt="zafferano di montagna" class="bg-gray-300 rounded-lg mt-8 mx-auto h-64 zoom "> --}}
-                <img src="/img/miele.jpg" loading="lazy" alt="zafferano di montagna"
+                <img src="/img/miele.jpg" loading="lazy" alt="miele-e-zafferano-di-montagna"
                     class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
-                <img src="/img/bis-prod.jpg" loading="lazy" alt="zafferano di montagna"
+                <img src="/img/bis-prod.jpg" loading="lazy" alt="miele-e-zafferano-di-montagna""
                     class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
                 {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
                 {{-- <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
@@ -263,9 +263,9 @@
             </div>
             <div class="grid grid-cols-1 grid-rows-2 mt-8 mb-8 gap-4 sm:gap-6 lg:gap-8">
                 {{-- <img src="/img/zafferano1.jpg" alt="zafferano di montagna" class="bg-gray-300 rounded-lg mt-8 mx-auto h-64 zoom "> --}}
-                <img src="/img/tris-prod.jpg" loading="lazy" alt="zafferano di montagna"
+                <img src="/img/tris-prod.jpg" loading="lazy" alt="aceto-di-mele"
                     class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
-                <img src="/img/tris-confezione.jpg" loading="lazy" alt="zafferano di montagna"
+                <img src="/img/tris-confezione.jpg" loading="lazy" alt="aceto-di-mele"
                     class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
                 {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
                 {{-- <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}

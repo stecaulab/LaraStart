@@ -3,6 +3,12 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="description"
+        content="Prodotti da agricoltura biologica. Recuperare campi ed orti in disuso coltivando in maniera sostenibile,
+                        creando una vera e propria collaborazione con la natura che ci permette di arricchire il terreno,
+                        nutrendolo e stimolandone la biodiversità, in modo da lasciare un domani un posto ancor migliore in cui vivere.">
+    <meta name="keywords"
+        content="Zafferano,Miele,Aceto di mele, Ristoranti, val mastallone, piemonte, vercelli,agricoltura biologica,agricoltura sostenibile,nosuggio,cravagliana,biodiversità,">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title> {{ env('APP_NAME') }} - @yield('title') </title>
@@ -40,7 +46,7 @@
     <main>
         {{ $slot }}
     </main>
-   
+
 </body>
 
 {{-- ADD JQUERY CDN --}}

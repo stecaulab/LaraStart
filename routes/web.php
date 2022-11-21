@@ -14,10 +14,9 @@ use App\Http\Controllers\PageController;
 */
 
 
-Route::get('/', function () {
-    return redirect()->action([PageController::class, 'index']);
-});
-//Route::get('/', [PageController::class, 'index']);
+
+Route::get('/', [PageController::class, 'index']);
+
 Route::get('/home', [PageController::class, 'index']);
 Route::get('/contatti', [PageController::class, 'contacts']);
 Route::get('/prodotti', [PageController::class, 'single']);

@@ -1,7 +1,7 @@
 <div class="bgcover  mx-auto flex flex-wrap h-auto p-top2 p-bott2 m-top3">
 
     <div class="bgcover__title w-full md:w-3/6 flex items-center pl-8 pr-8 p-top1">
-        <h2 class="text-5xl text-[#352208] text-center uppercase md:text-8xl md:text-white">Sostenibilità a
+        <h2 class="text-5xl text-white text-center uppercase md:text-8xl md:text-white">Sostenibilità a
             360° </h2>
 
     </div>

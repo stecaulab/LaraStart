@@ -1,9 +1,10 @@
+@section('title', 'Collaborazioni')
 <div class="flex justify-between items-center">
     <div class="mx-auto flex items-center mt-40 pt-5 md:full">
         <span
-            class="before:w-4 before:absolute before:left-6  before:content-['“'] before:text-[#5d514c] before:text-8xl 
-              after:w-4 after:absolute after:top-24 after:right-16 after:content-['”'] after:text-[#5d514c] after:text-8xl 
-              md:before:w-4 md:before:absolute md:before:-left-9 md:before:content-['“'] md:before:text-[#5d514c] md:before:text-9xl 
+            class="before:w-4 before:absolute before:left-6  before:content-['“'] before:text-[#5d514c] before:text-8xl
+              after:w-4 after:absolute after:top-24 after:right-16 after:content-['”'] after:text-[#5d514c] after:text-8xl
+              md:before:w-4 md:before:absolute md:before:-left-9 md:before:content-['“'] md:before:text-[#5d514c] md:before:text-9xl
               md:after:w-4 md:after:absolute md:after:top-24 md:after:right-52 md:after:content-['”'] md:after:text-[#5d514c] md:after:text-9xl
               mx-auto inline-block relative">
 
@@ -66,7 +67,8 @@
 
         <div class="flex flex-col md:flex-row mt-3 ml-5 mr-2">
             <div class=" md:h-[580px] md:w-[750px]">
-                <img src="/img/sfere_di_zafferano.jpg" alt="" class="md:ml-1 md:mr-1">
+                <img src="/img/sfere_di_zafferano.jpg" alt="Andrea-Mattasoglio-sfere-allo-zafferano"
+                    class="md:ml-1 md:mr-1">
             </div>
 
             <div class="bg-white md:w-[274px]">
