@@ -9,7 +9,7 @@
             <div>
                 <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Zafferano di Montagna</h2>
-                <p class="mt-4 text-[25px] leading-10 font-light  text-gray-500 reveal2">
+                <p class="mt-10 pt-5 pb-10 text-[25px] leading-10 font-light  text-gray-500 reveal2">
                     Coltivato secondo il metodo Bio Sinergico Consapevole, lungo le sponde del torrente Mastallone nasce
                     lo Zafferano di Montagna. <br>
                     Cresce forte e rigoglioso a 665msl circondato da verdi montagne e respira l'aria pura e frizzante
@@ -25,7 +25,7 @@
                     zafferanodi avere molecole molto sviluppate.
                 </p>
 
-                <dl class="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8 reveal2">
+                <dl class="mt-28 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8 reveal2">
                     <div class="border-t border-gray-400 pt-4">
                         <dt class="font-medium text-gray-900">Origine</dt>
                         <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Val Mastallone Nosuggio (VC)</dd>
@@ -51,7 +51,7 @@
                     </div>
                 </dl>
             </div>
-            <div class="grid grid-cols-1 grid-rows-2  mt-4 mb-4 gap-2 sm:gap-6 lg:gap-y-2">
+            <div class="grid grid-cols-1 grid-rows-2  mt-8 mb-4 gap-2 sm:gap-6 lg:gap-y-2">
                 {{-- <img src="/img/zafferano1.jpg" alt="zafferano di montagna" class="bg-gray-300 rounded-lg mt-8 mx-auto h-64 zoom "> --}}
                 <img src="/img/zafferano.jpg" loading="lazy" alt="zafferano-di-montagna"
                     class="bg-gray-100 rounded-lg mt-20 mx-auto   zoom">
