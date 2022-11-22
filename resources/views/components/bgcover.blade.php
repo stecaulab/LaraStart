@@ -7,26 +7,29 @@
     </div>
 
     <div class="bgcover__text w-full flex flex-col mx-auto p-8 md:w-3/6">
-        <h4 class="med-l-text uppercase relative mx-auto pt-5 text-white font-semibold">
+        <h4 class="text-[28px] text-center md:text-[40px] uppercase relative mx-auto pt-5 text-white font-semibold">
             Adottiamo il
             Metodo BSC</h4>
-        <p class="text-lg text-white text-left relative mx-auto pt-5 font-light w-4/6">
-            Ci tengo che l'Azienda sia sostenibie non soltanto a livello economico ma anche per il metodo di
-            coltivazione.
+        <p class="text-[18px]  md:text-[25px] leading-10 text-white text-left relative mx-auto pt-5 font-light w-4/6">
+            Rispettiamo il terreno con metodi di coltivazione a bassissimo impatto ambientale.
 
         </p>
 
-        <h4 class="med-l-text uppercase text-white relative mx-auto pt-5 font-semibold ">Bio Sinergico Consapevole </h4>
-        <p class="text-lg text-white w-4/6 relative mx-auto pt-5 font-light show">
-            La Terra non viene girata, ma lavorata senza spostare gli strati del terreno, favorendo così i
-            microrganismi.
+        <h4 class="text-[28px] text-center md:text-[40px] uppercase text-white relative mx-auto pt-5 font-semibold ">Bio
+            Sinergico
+            Consapevole
+        </h4>
+        <p class="text-[18px] md:text-[25px] leading-10 text-white w-4/6 relative mx-auto pt-5 font-light show">
+            Un terreno in salute ed equilibrio dona raccolti di qualità.
         </p>
 
-        <h4 class=" med-l-text uppercase text-white relative mx-auto pt-5 pr-5 font-semibold">Packaging Ecologico</h4>
-        <p class="text-lg text-white w-4/6 relative mx-auto pt-5 font-light show">Anche per le nostre confezioni
-            natalizie o
-            bomboniere abbiamo scelto di
-            utilizzare carta riciclata proveniente da foreste sostenibili.
+        <h4
+            class=" text-[28px]  text-center md:text-[40px] uppercase text-white relative mx-auto pt-5 pr-5 font-semibold">
+            Packaging
+            Ecologico
+        </h4>
+        <p class="text-[18px] md:text-[25px] leading-10 text-white w-4/6 relative mx-auto pt-5 font-light show">
+            Abbiamo scelto materiali naturali all 100% come vetro e carta riciclata proveniente da foreste sostenibili.
         </p>
     </div>
 

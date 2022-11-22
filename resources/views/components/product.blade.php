@@ -9,7 +9,7 @@
             <div>
                 <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color sm:text-4xl reveal2">
                     Zafferano di Montagna</h2>
-                <p class="mt-4 text-lg leading-loose text-gray-500 reveal2">
+                <p class="mt-4 text-[25px] leading-10 font-light  text-gray-500 reveal2">
                     Coltivato secondo il metodo Bio Sinergico Consapevole, lungo le sponde del torrente Mastallone nasce
                     lo Zafferano di Montagna. <br>
                     Cresce forte e rigoglioso a 665msl circondato da verdi montagne e respira l'aria pura e frizzante
@@ -51,12 +51,12 @@
                     </div>
                 </dl>
             </div>
-            <div class="grid grid-cols-1 grid-rows-2 mt-8 mb-8 gap-4 sm:gap-6 lg:gap-8">
+            <div class="grid grid-cols-1 grid-rows-2  mt-4 mb-4 gap-2 sm:gap-6 lg:gap-y-2">
                 {{-- <img src="/img/zafferano1.jpg" alt="zafferano di montagna" class="bg-gray-300 rounded-lg mt-8 mx-auto h-64 zoom "> --}}
                 <img src="/img/zafferano.jpg" loading="lazy" alt="zafferano-di-montagna"
-                    class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
+                    class="bg-gray-100 rounded-lg mt-20 mx-auto   zoom">
                 <img src="/img/tris-pack-zoom.jpg" loading="lazy" alt="zafferano-di-montagna"
-                    class="bg-gray-100 rounded-lg mt-8 mx-auto h-64 zoom">
+                    class="bg-gray-100 rounded-lg  mx-auto   zoom">
                 {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
                 {{-- <img src="/img/tris-pack-zoom.jpg" alt="Side of walnut card tray with card groove and recessed card area." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
                 {{-- <img src="/img/single-pack.jpg" alt="Walnut card tray filled with cards and card angled in dedicated groove." class="bg-gray-100 rounded-lg mt-8 zoom"> --}}
