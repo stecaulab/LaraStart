@@ -15,7 +15,7 @@
             class="logo ml-4 z-50 mt-3 transition-all duration-75 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
                     md:ml-0 md:mt-3 md:z-50 md:transition-all md:duration-75 md:ease-[cubic-bezier(0.355, 0.61, 0.215, 1)">
             <a href="/home">
-                <img src="/img/svg/logo_VM.svg" class="h-24 w-24">
+                <img src="/img/svg/logo_VM.svg" alt="Azienda agricola Valmastallone" class="h-auto w-24">
             </a>
         </div>
         <ul
@@ -64,7 +64,7 @@
 
 <div class="section watch relative top-64 z-40 w-full flex">
     <h1
-        class=" title text-white big-text italic w-2/4 mx-auto justify-center text-center md:w-full md:h-1/6  flex md:justify-center md:items-center">
+        class=" title text-white big-text italic w-2/4 mx-auto justify-center text-center leading-[62px] md:w-full md:h-1/6  flex md:justify-center md:items-center">
         “Credo che avere la terra e non rovinarla <br>
         sia la più bella forma d'arte <br>
         che si possa desiderare” <br>
@@ -72,7 +72,7 @@
 </div>
 <div class="section watch top-72 relative md:top-64 z-40 w-full">
     <h2
-        class="title text-white small-text italic w-2/4 mx-auto justify-center text-center md:w-full md:h-1/6  flex md:justify-center md:items-center"">
+        class="title text-white small-text italic w-2/4 mx-auto justify-center text-center  md:w-full md:h-1/6  flex md:justify-center md:items-center"">
         - Andy Warhol -
 
     </h2>

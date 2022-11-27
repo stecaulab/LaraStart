@@ -821,15 +821,6 @@ h2 {
 .h-16 {
   height: 4rem;
 }
-.h-20 {
-  height: 5rem;
-}
-.h-80 {
-  height: 20rem;
-}
-.h-24 {
-  height: 6rem;
-}
 .min-h-screen {
   min-height: 100vh;
 }
@@ -841,6 +832,9 @@ h2 {
 }
 .w-4\/6 {
   width: 66.666667%;
+}
+.w-24 {
+  width: 6rem;
 }
 .w-12 {
   width: 3rem;
@@ -859,12 +853,6 @@ h2 {
 }
 .w-auto {
   width: auto;
-}
-.w-20 {
-  width: 5rem;
-}
-.w-24 {
-  width: 6rem;
 }
 .max-w-2xl {
   max-width: 42rem;
@@ -1096,6 +1084,9 @@ h2 {
 .pr-4 {
   padding-right: 1rem;
 }
+.pt-20 {
+  padding-top: 5rem;
+}
 .pr-2 {
   padding-right: 0.5rem;
 }
@@ -1168,16 +1159,19 @@ h2 {
   font-size: 2.25rem;
   line-height: 2.5rem;
 }
+.text-\[22px\] {
+  font-size: 22px;
+}
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
 .text-\[25px\] {
   font-size: 25px;
 }
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
-}
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 .text-lg {
   font-size: 1.125rem;
@@ -1194,8 +1188,8 @@ h2 {
   font-size: 1.25rem;
   line-height: 1.75rem;
 }
-.text-\[22px\] {
-  font-size: 22px;
+.text-\[20px\] {
+  font-size: 20px;
 }
 .font-medium {
   font-weight: 500;
@@ -1232,6 +1226,9 @@ h2 {
 }
 .leading-10 {
   line-height: 2.5rem;
+}
+.leading-\[62px\] {
+  line-height: 62px;
 }
 .leading-loose {
   line-height: 2;
@@ -1913,6 +1910,10 @@ h2 {
     line-height: 1;
   }
 
+  .md\:text-\[28px\] {
+    font-size: 28px;
+  }
+
   .md\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
@@ -1920,10 +1921,6 @@ h2 {
 
   .md\:text-\[56px\] {
     font-size: 56px;
-  }
-
-  .md\:text-\[28px\] {
-    font-size: 28px;
   }
 
   .md\:uppercase {

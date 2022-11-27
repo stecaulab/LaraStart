@@ -2,8 +2,14 @@
 <div
     class="contact m-top2 max-w-2xl mx-auto py-24 px-4 grid items-center grid-cols-1 gap-y-8 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-1">
     <div class="grid grid-cols-1 border-b-2 border-gray-400 ">
-        <h3 class="text-black text-center text-4xl uppercase  reveal2">Contatti</h3>
-        <div class="md:text-[25px] leading-10 font-light pl-4 pr-4 text-center mt-5 mb-10 reveal2">
+        <h1 class="text-black text-center text-4xl uppercase  reveal2">Contattaci</h1>
+
+        <h2 class="text-black text-left text-[22px] reveal2">Se hai bisogno di assistenza o di informazioni
+            puoi contattarci inviando una
+            mail direttamente all'Azienda Agricola Valmastallone.</h2>
+        <h3 class="text-black text-left text-[20px] reveal2"><b>Federica</b> risponderà a tutte le tue domande senza
+            alcun vincolo e con professionalità.</h3>
+        <div class="md:text-[25px] leading-10 font-light pr-4 text-left mt-5 mb-10 reveal2">
             Email: <a href="mailto:aziendaagricolavalmastallone@gmail.com"
                 class="text-yellow-700  md:hover:font-semibold">aziendaagricolavalmastallone@gmail.com </a>
             - Tel: <a href="https://api.whatsapp.com/send?phone=+3932863949075"

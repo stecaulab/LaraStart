@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-sitemap:
+sitemap:http://www.stefanocauzzi.it/sitemap.xml

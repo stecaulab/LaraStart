@@ -10,12 +10,12 @@
         <div
             class="logo ml-4 invert-0 z-50 mt-3 transition-all duration-75 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
                     md:ml-0 md:mt-3 md:z-50 md:transition-all md:duration-75 md:ease-[cubic-bezier(0.355, 0.61, 0.215, 1)">
-            <a href="/home">
-                <a href="/home">
-                    <img src="/img/svg/logo_VM.svg" class="h-24 w-24">
-                </a>
 
+            <a href="/home">
+                <img src="/img/svg/logo_VM.svg" alt="Azienda agricola Valmastallone" class=" h-auto w-24">
             </a>
+
+
         </div>
         <ul
             class="menu top-10 z-40 w-full bg-white left-0 fixed h-0 overflow-hidden transition-all duration-700 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
