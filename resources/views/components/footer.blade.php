@@ -50,7 +50,7 @@
                 Mastallone</p>
         </div>
         <div>
-            <p class="text-white  md:text-center  font-thin text-xs"><a href="/privacy" class="underline ">Privacy
+            <p class="text-white  ml-4 md:text-center  font-thin text-xs"><a href="/privacy" class="underline ">Privacy
                     Policy</a>
             </p>
         </div>
