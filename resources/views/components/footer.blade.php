@@ -42,7 +42,7 @@
             </ul>
         </div>
     </div>
-    <div class="grid md:grid-cols-2 text-sm mt-24 md:mt-24 ">
+    <div class="grid md:grid-cols-3 text-sm mt-24 md:mt-24 md:justify-between">
         <div>
             <p class="text-white text-left ml-4 md:ml-16 font-thin text-xs">&copy;copyright @php echo date('Y'); @endphp
                 AziendaAgricola
@@ -50,7 +50,12 @@
                 Mastallone</p>
         </div>
         <div>
-            <p class="text-white ml-4 md:text-right md:mr-16 font-thin text-xs">Powered by <a
+            <p class="text-white  md:text-center  font-thin text-xs"><a href="/privacy" class="underline ">Privacy
+                    Policy</a>
+            </p>
+        </div>
+        <div>
+            <p class="text-white  ml-4 md:text-right md:mr-16 font-thin text-xs">Powered by <a
                     href="mailto:cauzzistefano@icloud.com" class="hover:text-yellow-700">Cauzzi Stefano</a> </p>
         </div>
     </div>

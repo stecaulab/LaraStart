@@ -24,4 +24,8 @@ class PageController extends Controller
     {
         return view('frontend.collaborazioni ');
     }
+    public function privacy()
+    {
+        return view('frontend.privacy ');
+    }
 }

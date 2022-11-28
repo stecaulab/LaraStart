@@ -1078,9 +1078,6 @@ h2 {
 .pt-3 {
   padding-top: 0.75rem;
 }
-.pl-4 {
-  padding-left: 1rem;
-}
 .pr-4 {
   padding-right: 1rem;
 }
@@ -1162,6 +1159,9 @@ h2 {
 .text-\[22px\] {
   font-size: 22px;
 }
+.text-\[20px\] {
+  font-size: 20px;
+}
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -1187,9 +1187,6 @@ h2 {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-.text-\[20px\] {
-  font-size: 20px;
 }
 .font-medium {
   font-weight: 500;
@@ -1886,6 +1883,10 @@ h2 {
 
   .md\:text-left {
     text-align: left;
+  }
+
+  .md\:text-center {
+    text-align: center;
   }
 
   .md\:text-right {

@@ -23,7 +23,7 @@
                     md:static md:h-full md:max-w-2xl md:bg-transparent md:top-0 md:z-40 md:left-32
                     md:mt-3 md:flex md:items-center lg:flex lg:justify-center lg:max-w-screen-2xl">
             <li class="pt-24 pb-3 ml-9 md:top-0 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pt-0 md:pb-0">
-                <a class=" normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('home') ? 'actived hvr-underline-from-center-attiva' : '' }}"
+                <a class=" normal-case md:text-black md:uppercase hvr-underline-from-center {{ request()->is('/') || request()->is('home') ? 'actived hvr-underline-from-center-attiva' : '' }}"
                     href="/home">Home</a>
             </li>
             <li class="pt-5 pb-3 ml-9 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pb-0"><a
