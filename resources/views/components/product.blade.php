@@ -26,7 +26,7 @@
                     di un'esperienza sensoriale unica.
                     Lavorare in sinergia con la natura è il nostro modo di rendere omaggio alla terra. <br>
                     crediamo in un mondo più sano,in un'agricoltura che arricchisce il terreno e che permette al nostro
-                    zafferanodi avere molecole molto sviluppate.
+                    zafferano di avere molecole molto sviluppate.
                 </p>
             </div>
             <div class="grid grid-cols-1 grid-rows-2  md:mt-8 mb-4 gap-2 sm:gap-6 lg:gap-y-2">
@@ -40,7 +40,7 @@
                 class="mt-2 grid grid-cols-1 gap-x-6 gap-y-10 md:grid-cols-3 md:gap-y-16 lg:gap-x-8 reveal2 text-[18px]">
                 <div class="border-t border-gray-400 pt-4">
                     <dt class="font-medium text-gray-900">Origine</dt>
-                    <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Val Mastallone Nosuggio (VC)</dd>
+                    <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Valmastallone Nosuggio (VC)</dd>
                 </div>
                 <div class="border-t border-gray-400 pt-4 reveal2">
                     <dt class="font-medium text-gray-900">Prezzi</dt>
@@ -88,7 +88,7 @@
                                     class=" mt-5 fas fa-envelope-open-text fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Invia un email all'indirizzo:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
+                                    href="mailto:aziendaagricolavalmastallone@gmail.com">aziendaagricolavalmastallone@gmail.com</a>
                             </h3>
                         </div>
                     </div>
@@ -129,12 +129,12 @@
                     Miele & Zafferano</h2>
                 <p class="mt-10 pt-5 pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
                     Tra le nostre sinergie spicca l'incontro tra Miele e Zafferano di montagna, in cui gli ingredienti
-                    fondono leloro proprietà
+                    fondono le loro proprietà
                     organolettiche per donare un prodotto dal colore, profumo e sapore intensi. <br>
                     Uno scrigno prezioso dalla mille riisorse, che vi permetterà di viaggiare con la fantasia creando
-                    incucina infinite combinazioni, dai formaggi, <br>
+                    in cucina infinite combinazioni, dai formaggi, <br>
                     allo yogurt, al gelato o semplicemente col pane appena sfornato. <br>
-                    Vogliamo regalarVi il gusto di un prodotto che rispetta l'ambiente e tutti i suoi abitanti.
+                    Vogliamo regalarvi il gusto di un prodotto che rispetta l'ambiente e tutti i suoi abitanti.
                 </p>
             </div>
             <div class="grid grid-cols-1 grid-rows-2  md:mt-8 mb-4 gap-2 sm:gap-6 lg:gap-y-2">
@@ -148,7 +148,7 @@
                 class="mt-2 grid grid-cols-1 gap-x-6 gap-y-10 md:grid-cols-3 md:gap-y-16 lg:gap-x-8 reveal2 text-[18px]">
                 <div class="border-t border-gray-400 pt-4">
                     <dt class="font-medium text-gray-900">Origine</dt>
-                    <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Val Mastallone Nosuggio (VC)</dd>
+                    <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Valmastallone Nosuggio (VC)</dd>
                 </div>
                 <div class="border-t border-gray-400 pt-4 reveal2">
                     <dt class="font-medium text-gray-900">Prezzi</dt>
@@ -188,7 +188,7 @@
                                     class=" mt-5 fas fa-envelope-open-text fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Invia un email all'indirizzo:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
+                                    href="mailto:aziendaagricolavalmastallone@gmail.com">aziendaagricolavalmastallone@gmail.com</a>
                             </h3>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                     Direttamente dal nostro frutteto, che curiamo ogni giorno con la massima attenzione,cogliamo
                     mele al
                     100% ValMastallone. <br>
-                    Esse si trasformano e concentrano tutte le loro sostanzepreziose in un condimento dal colore
+                    Esse si trasformano e concentrano tutte le loro sostanze preziose in un condimento dal colore
                     ambrato
                     <br>
                     che diventa un vero e proprio alleato per il nostro benessere. <br>
@@ -252,7 +252,7 @@
                 class="mt-2 grid grid-cols-1 gap-x-6 gap-y-10 md:grid-cols-3 md:gap-y-16 lg:gap-x-8 reveal2 text-[18px]">
                 <div class="border-t border-gray-400 pt-4">
                     <dt class="font-medium text-gray-900">Origine</dt>
-                    <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Val Mastallone Nosuggio (VC)</dd>
+                    <dd class="mt-2 text-sm text-gray-500">Azienda Agricola Valmastallone Nosuggio (VC)</dd>
                 </div>
                 <div class="border-t border-gray-400 pt-4 reveal2">
                     <dt class="font-medium text-gray-900">Prezzi</dt>
@@ -292,7 +292,7 @@
                                     class=" mt-5 fas fa-envelope-open-text fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Invia un email all'indirizzo:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
+                                    href="mailto:aziendaagricolavalmastallone@gmail.com">aziendaagricolavalmastallone@gmail.com</a>
                             </h3>
                         </div>
                     </div>

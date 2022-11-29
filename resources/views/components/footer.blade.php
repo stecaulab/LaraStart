@@ -33,7 +33,7 @@
                     </span> </li>
                 <li class="pb-3 mr-16 reveal2"><span>P.Iva:</span> <span class=" right-2">0274380023</span> </li>
                 <li class="pb-3 mr-16 reveal2"><span>Email:</span> <a class="text-yellow-700  md:hover:text-yellow-800"
-                        href="mailto:aziendaagricolavalmastallone@gmail.com">AziendaAgricolaValMastallone@gmail.com</a>
+                        href="mailto:aziendaagricolavalmastallone@gmail.com">aziendaagricolavalmastallone@gmail.com</a>
                 </li>
                 <li class="pb-3 mr-16 reveal2"><span>Telefono:</span> <a
                         class="text-yellow-700  md:hover:text-yellow-800"
