@@ -22,7 +22,7 @@
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 
     <!-- Fonts -->
-   
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -44,14 +44,21 @@
 </head>
 
 <body class="h-full">
+    <div id="preloader">
+        ciao
+    </div>
     <main>
         {{ $slot }}
     </main>
 
 </body>
 
-{{-- ADD JQUERY CDN --}}
+    <script>
+        var loader = document.getElementById("preloader");
+            window.addEventListener("load" , function(){
+                loader.style.display = "none";
+            })
+    </script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 </html>
