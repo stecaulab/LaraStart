@@ -13,8 +13,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Heebo', ...defaultTheme.fontFamily.sans],
-                cit: ['Inter', ...defaultTheme.fontFamily.sans],
+
             },
         },
     },

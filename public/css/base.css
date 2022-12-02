@@ -1,13 +1,13 @@
 /* HEADER SECTION  */
 .header {
-  font-family: "Inter";
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   font-weight: 300;
   opacity: 1;
 }
 
 .header2 {
-  font-family: "Inter";
+  font-family: "";
   font-size: 13px;
   font-weight: 300;
 }
@@ -110,7 +110,7 @@
 }
 
 .contact {
-  font-family: "Inter";
+  font-family: "Open Sans", sans-serif;
   font-size: 13px;
   font-weight: 300;
 }
