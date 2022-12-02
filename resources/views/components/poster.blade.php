@@ -1,5 +1,5 @@
 <div class="mt-96 pt-32  flex flex-wrap items-center w-full container mx-auto md:h-screen h-auto ">
-    <div class="pt-4 pb-4 pl-5 flex flex-col mx-auto pr-5 md:w-2/5 w-full  md:mt-40">
+    <div class="pt-4 pb-4 pl-5 flex flex-col mx-auto pr-5 md:w-2/5 w-full  md:mt-40 ">
         <h2 class=" text-[32px] font-semibold second-text-color md:text-[56px] lg:mt-8">La Nosta
             Avventura </h2>
         <p class="text-[25px] leading-10 font-light text-black pt-8">Nel cuore della Val Mastallone, nella piccola

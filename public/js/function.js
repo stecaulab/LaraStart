@@ -6,71 +6,43 @@ let items = document.querySelector('.menu');
 
 ham.addEventListener("click", function () {
 
-  document.body.classList.toggle('menu-open');
+    document.body.classList.toggle('menu-open');
 
-  if (items.classList.contains('h-0')) {
+    if (items.classList.contains('h-0')) {
 
-    items.classList.remove('h-0');
-    items.classList.add('h-screen', 'p-4');
-
-
-
-  } else {
-
-    items.classList.remove('h-screen', 'p-4');
-    items.classList.add('h-0');
-
-  }
-
-});
+        items.classList.remove('h-0');
+        items.classList.add('h-screen', 'p-4');
 
 
-// FUNCTION FOR NAVBAR SCROLL 
 
-window.addEventListener('scroll', () => {
+    } else {
 
+        items.classList.remove('h-screen', 'p-4');
+        items.classList.add('h-0');
 
-  let content = document.querySelector('body');
-  console.log(content);
-  // let contentPosition = content.getBoundingClientRect().top;
-
-  let screenPosition = window.scrollY;
-
-  let body_elem = document.body;
-
-  if (screenPosition > 480) {
-    body_elem.classList.add("attiva");
-    //body_elem.classList.remove("opacity-100");
-    //body_elem.classList.add("opacity-0");
-    // body_elem.classList.add("invert");
-
-  } else {
-    body_elem.classList.remove("attiva");
-    //body_elem.classList.remove("opacity-0");
-    //  body_elem.classList.remove("invert");
-
-  }
+    }
 
 });
 
 
 // elements
 var elements_to_watch = document.querySelectorAll('.watch');
-// callback 
+// callback
 var callback = function (items) {
-  items.forEach((item) => {
-    if (item.isIntersecting) {
-      item.target.classList.add("in-page");
-    } else {
-      item.target.classList.remove("in-page");
-    }
-  });
+    items.forEach((item) => {
+        if (item.isIntersecting) {
+            item.target.classList.add("in-page");
+        } else {
+            item.target.classList.remove("in-page");
+        }
+    });
 }
+
 // observer
 var observer = new IntersectionObserver(callback, { threshold: 0.6 });
 // apply
 elements_to_watch.forEach((element) => {
-  observer.observe(element);
+    observer.observe(element);
 });
 
 
