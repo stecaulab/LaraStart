@@ -677,6 +677,12 @@ h3 {
 .right-2 {
   right: 0.5rem;
 }
+.top-80 {
+  top: 20rem;
+}
+.top-60 {
+  top: 15rem;
+}
 .z-0 {
   z-index: 0;
 }
@@ -1237,6 +1243,9 @@ h3 {
 .leading-tight {
   line-height: 1.25;
 }
+.leading-\[56px\] {
+  line-height: 56px;
+}
 .tracking-tight {
   letter-spacing: -0.025em;
 }
@@ -1636,6 +1645,10 @@ h3 {
     top: 16rem;
   }
 
+  .md\:top-80 {
+    top: 20rem;
+  }
+
   .md\:z-40 {
     z-index: 40;
   }
@@ -1921,6 +1934,10 @@ h3 {
 
   .md\:uppercase {
     text-transform: uppercase;
+  }
+
+  .md\:leading-\[62px\] {
+    line-height: 62px;
   }
 
   .md\:text-white {

@@ -1,8 +1,9 @@
 @section('title')
-Home
+    Home
 @endsection
 
-<header class="header top-0 left-0 z-50 flex fixed md:w-full md:z-40  md:top-0 md:left-0  md:mx-auto md:justify-between
+<header
+    class="header top-0 left-0 z-50 flex fixed md:w-full md:z-40  md:top-0 md:left-0  md:mx-auto md:justify-between
     after:fixed after:top-0 after:left-0 after:h-32 after:w-full after:z-30
     after:bg-gradient-to-b from-[#ffffff] via-[#ffffff] to-transparent
   after:transition after:duration-500 after:ease-[cubic-bezier(0.215, 0.61, 0.355, 1)]
@@ -17,7 +18,8 @@ Home
                 <img src="/img/svg/logo_VM.svg" alt="Azienda agricola Valmastallone" class="h-auto w-24">
             </a>
         </div>
-        <ul class="menu top-10 z-40 w-full bg-white left-0 fixed h-0 overflow-hidden transition-all duration-700 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
+        <ul
+            class="menu top-10 z-40 w-full bg-white left-0 fixed h-0 overflow-hidden transition-all duration-700 ease-[cubic-bezier(0.355, 0.61, 0.215, 1)]
                     md:static md:h-full md:max-w-2xl md:bg-transparent md:top-0 md:z-40 md:left-32
                     md:mt-3 md:flex md:items-center lg:flex lg:justify-center lg:max-w-screen-2xl">
             <li class="pt-24 pb-3 ml-9 md:top-0 md:ml-4 md:mr-4 md:pl-3 md:pr-3 md:pt-0 md:pb-0">
@@ -60,16 +62,17 @@ Home
     <source src="/img/coverVideoAE.mp4" type="video/mp4">
 </video>
 
-<div class="section watch relative top-64 z-40 w-full flex">
+<div class="section watch relative top-60 md:top-80 z-40 w-full flex">
     <h1
-        class=" title text-white big-text italic w-2/4 mx-auto justify-center text-center leading-[62px] md:w-full md:h-1/6  flex md:justify-center md:items-center">
+        class=" title text-white big-text italic w-2/4 mx-auto justify-center text-center leading-[56px]   md:leading-[62px] md:w-full md:h-1/6  flex md:justify-center md:items-center">
         “Credo che avere la terra e non rovinarla <br>
         sia la più bella forma d'arte <br>
         che si possa desiderare” <br>
     </h1>
 </div>
-<div class="section watch top-72 relative md:top-64 z-40 w-full">
-    <h2 class="title text-white small-text italic w-2/4 mx-auto justify-center text-center  md:w-full md:h-1/6  flex md:justify-center md:items-center"">
+<div class="section watch top-60 relative md:top-80 z-40 w-full">
+    <h2
+        class="title text-white small-text italic w-2/4 mx-auto justify-center text-center  md:w-full md:h-1/6  flex md:justify-center md:items-center"">
         - Andy Warhol -
 
     </h2>
