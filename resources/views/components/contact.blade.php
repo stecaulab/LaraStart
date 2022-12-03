@@ -4,7 +4,7 @@
     <div class="grid grid-cols-1 border-b-2 border-gray-400 ">
         <h1 class="text-black text-center text-4xl uppercase  reveal2">Contattaci</h1>
 
-        <h2 class="text-black text-left text-[22px] reveal2">Se hai bisogno di assistenza o di informazioni
+        <h2 class="text-black text-left text-[22px] reveal2">Se hai bisogno di assistenza o d'informazioni
             puoi contattarci inviando una
             mail direttamente all'Azienda Agricola Valmastallone.</h2>
         <h3 class="text-black text-left text-[20px] reveal2"><b>Federica</b> risponderà a tutte le tue domande senza

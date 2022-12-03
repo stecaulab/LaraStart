@@ -11,7 +11,7 @@
             Siamo <b>Federica</b> e <b>Claudio</b> e la passione che condividiamo per la natura e l'aria di montagna ci
             ha portati qui, a 665 m di altitudine, in un luogo incantato.<br>
             Questo posto e le persone che lo vivono ci hanno ispirati a trovare la nostra missione: <br>
-            Recuperare campi ed orti in disuso coltivando in maniera sostenibile,creando una vera e propria
+            Recuperare campi e orti in disuso coltivando in maniera sostenibile, creando una vera e propria
             collaborazione con la natura che ci permette di arricchire il terreno,
             nutrendolo e stimolandone la biodiversità, in modo da lasciare un domani un posto ancor migliore in cui
             vivere.

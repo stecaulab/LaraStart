@@ -45,9 +45,8 @@
     <div class="grid md:grid-cols-3 text-sm mt-24 md:mt-24 md:justify-between">
         <div>
             <p class="text-white text-left ml-4 md:ml-16 font-thin text-xs">&copy;copyright @php echo date('Y'); @endphp
-                AziendaAgricola
-                Val
-                Mastallone</p>
+                Azienda Agricola
+                Valmastallone</p>
         </div>
         <div>
             <p class="text-white  ml-4 md:text-center  font-thin text-xs"><a href="/privacy" class="underline ">Privacy

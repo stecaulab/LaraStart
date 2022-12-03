@@ -18,14 +18,14 @@
                     lo Zafferano di Montagna. <br>
                     Cresce forte e rigoglioso a 665msl circondato da verdi montagne e respira l'aria pura e frizzante
                     tipica di queste zone. <br>
-                    Grazie ad un sistema innovativo di agricoltura etica e sostenibile a bassissimo impatto ambientale,
+                    Grazie a un sistema innovativo di agricoltura etica e sostenibile a bassissimo impatto ambientale,
                     beneficia di qualità organolettiche superiori che valorizzano i piatti esaltandone sapore, colore e
                     profumo. <br>
-                    Bastano infatti pochi stimmi per per creare una vera e propria opera d'arte culinaria che lascerà
+                    Bastano infatti pochi stimmi per creare una vera e propria opera d'arte culinaria che lascerà
                     memoria
                     di un'esperienza sensoriale unica.
                     Lavorare in sinergia con la natura è il nostro modo di rendere omaggio alla terra. <br>
-                    crediamo in un mondo più sano,in un'agricoltura che arricchisce il terreno e che permette al nostro
+                    Crediamo in un mondo più sano, in un'agricoltura che arricchisce il terreno e che permette al nostro
                     zafferano di avere molecole molto sviluppate.
                 </p>
             </div>
@@ -100,7 +100,7 @@
                         <div class="font-medium text-center ">
                             <span class="text-pink-800 max-auto"><i class=" mt-5 fab fa-whatsapp fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
-                                Whatsapp:
+                                WhatsApp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
                                     href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
@@ -131,7 +131,7 @@
                     Tra le nostre sinergie spicca l'incontro tra Miele e Zafferano di montagna, in cui gli ingredienti
                     fondono le loro proprietà
                     organolettiche per donare un prodotto dal colore, profumo e sapore intensi. <br>
-                    Uno scrigno prezioso dalla mille riisorse, che vi permetterà di viaggiare con la fantasia creando
+                    Uno scrigno prezioso dalle mille risorse, che vi permetterà di viaggiare con la fantasia creando
                     in cucina infinite combinazioni, dai formaggi, <br>
                     allo yogurt, al gelato o semplicemente col pane appena sfornato. <br>
                     Vogliamo regalarvi il gusto di un prodotto che rispetta l'ambiente e tutti i suoi abitanti.
@@ -201,7 +201,7 @@
                             <span class="text-pink-800 max-auto"><i
                                     class=" mt-5 fab fa-whatsapp fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
-                                Whatsapp:
+                                WhatsApp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
                                     href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
@@ -230,14 +230,14 @@
                 <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color  reveal2">
                     Aceto di Mele</h2>
                 <p class="mt-10 pt-5 pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
-                    Direttamente dal nostro frutteto, che curiamo ogni giorno con la massima attenzione,cogliamo
+                    Direttamente dal nostro frutteto, che curiamo ogni giorno con la massima attenzione, cogliamo
                     mele al
                     100% ValMastallone. <br>
                     Esse si trasformano e concentrano tutte le loro sostanze preziose in un condimento dal colore
                     ambrato
                     <br>
                     che diventa un vero e proprio alleato per il nostro benessere. <br>
-                    Ricco di sali minerali, oligoelementi,vitamine e fibbre offre innumerevoli vantaggi sia per la
+                    Ricco di sali minerali, oligo elementi, vitamine e fibre offre innumerevoli vantaggi sia per la
                     salute che per la bellezza. <br>
                 </p>
             </div>
@@ -305,7 +305,7 @@
                             <span class="text-pink-800 max-auto"><i
                                     class=" mt-5 fab fa-whatsapp fa-3x zoom"></i></span>
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
-                                Whatsapp:
+                                WhatsApp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
                                     href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
                             </h3>

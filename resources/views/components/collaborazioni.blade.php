@@ -292,12 +292,12 @@
             <p class="text-left  mt-2  text-[25px] leading-10 font-light ml-5 mr-2 reveal2">In un pentolino mettete a
                 scaldare 75g di
                 glucosio, 75g di
-                zucchero e 40ml di infuso allo zafferano
+                zucchero e 40ml d'infuso allo zafferano
                 fino a bollore. Togliete dal fuoco e unite 5g di gelatina in fogli precedentemente ammollata in acqua
                 fredda e ben strizzata, 50g di latte condensato, i restanti 80g di cioccolato bianco in pezzi.
                 Fate intiepidire la glassa a specchio fino a 30-34 gradi e, una volta tolte le sfere dallo stampo e
                 poste
-                su una grata, versatela su di esse. Ripetete la glassatura fino ad ottenere la sfumatura desiderata.
+                su una grata, versatela su di esse. Ripetete la glassatura fino a ottenere la sfumatura desiderata.
                 Riponete in freezer almeno un paio d’ore, dopodiché decorate la base con del cacao amaro e la
                 sommità con un brillante di argento edibile. Attendete 20 minuti prima di servirle per riportarle a
                 temperatura.</p>
