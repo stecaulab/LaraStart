@@ -1,8 +1,8 @@
 <div class="product m-top3">
     @section('title', 'Prodotti')
-    <div class="mt-20 pt-20">
-        <h1 class="text-5xl text-center font-extrabold uppercase tracking-tight  second-text-color  reveal2">Vi
-            Presentiamo le nostre eccellenze
+    <div class="mt-10 pt-5">
+        <h1 class="text-3xl md:text-5xl text-center font-extrabold uppercase tracking-tight  second-text-color  reveal2">
+            I nostri Prodotti
         </h1>
     </div>
     <!-- zafferano ---------------------------------------------------------------------------------------------------------------------  -->
@@ -11,9 +11,9 @@
         <div
             class="max-w-2xl mx-auto px-4 grid grid-cols-1  gap-y-8 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
             <div class="pr-2 pl-2">
-                <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color  reveal2">
+                <h2 class="text-2xl font-extrabold uppercase tracking-tight  mt-5 text-[#870058]  reveal2">
                     Zafferano di Montagna</h2>
-                <p class="mt-10 pt-5 pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
+                <p class="pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
                     Coltivato secondo il metodo Bio Sinergico Consapevole, lungo le sponde del torrente Mastallone nasce
                     lo Zafferano di Montagna. <br>
                     Cresce forte e rigoglioso a 665msl circondato da verdi montagne e respira l'aria pura e frizzante
@@ -125,9 +125,9 @@
         <div
             class="max-w-2xl mx-auto px-4 grid grid-cols-1  gap-y-8 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
             <div class="pr-2 pl-2">
-                <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color  reveal2">
+                <h2 class="text-3xl font-extrabold uppercase tracking-tight text-[#870058]  reveal2">
                     Miele & Zafferano</h2>
-                <p class="mt-10 pt-5 pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
+                <p class=" pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
                     Tra le nostre sinergie spicca l'incontro tra Miele e Zafferano di montagna, in cui gli ingredienti
                     fondono le loro proprietà
                     organolettiche per donare un prodotto dal colore, profumo e sapore intensi. <br>
@@ -227,9 +227,9 @@
         <div
             class="max-w-2xl mx-auto px-4 grid grid-cols-1  gap-y-8 gap-x-8 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8 lg:grid-cols-2">
             <div class="pr-2 pl-2">
-                <h2 class="text-3xl font-extrabold uppercase tracking-tight  second-text-color  reveal2">
+                <h2 class="text-3xl font-extrabold uppercase tracking-tight  text-[#870058]  reveal2">
                     Aceto di Mele</h2>
-                <p class="mt-10 pt-5 pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
+                <p class=" pb-5 text-[25px] leading-10 font-light  text-gray-500 reveal2">
                     Direttamente dal nostro frutteto, che curiamo ogni giorno con la massima attenzione, cogliamo
                     mele al
                     100% ValMastallone. <br>

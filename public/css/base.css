@@ -52,6 +52,13 @@
     font-weight: 300;
     opacity: 1;
   }
+
+  .hvr-underline-from-center, .hvr-underline-from-center::before,
+.hvr-underline-from-center:hover:before,
+.hvr-underline-from-center:focus:before,
+.hvr-underline-from-center:active:before {
+    display: none;
+  }
 }
 .hvr-underline-from-center {
   display: inline-block;
