@@ -62,14 +62,16 @@
     <source src="/img/coverVideoAE.mp4" type="video/mp4">
 </video> --}}
 
-<div
-    class=" h-full w-full  absolute top-0 left-0  z-10 bg-[url('/img/saffron-background-mobile.jpg')]  bg-center bg-fixed
-                md:w-full md:h-screen md:absolute md:top-0 md:left-0 md:bg-cover md:z-10 md:bg-[url('/img/saffron_background.jpg')]  md:bg-center md:bg-fixed
-                    after:w-full after:h-screen after:absolute after:top-0 after:left-0 after:z-30 after:bg-black after:bg-opacity-50">
+<div>
+    <div style="background-image: url('/img/saffron_background.jpg')"
+        class=" h-screen w-full absolute top-0 left-0  z-10  bg-no-repeat  bg-center bg-scroll bg-cover after:w-full after:h-screen
+                md:w-full md:h-screen md:absolute md:top-0 md:left-0 md:bg-cover md:z-10  md:bg-center md:bg-fixed
+                    md:after:w-full md:after:h-screen after:absolute after:top-0 after:left-0 after:z-30 after:bg-black after:bg-opacity-50">
+    </div>
 </div>
 
 <div class="section watch relative top-60 md:top-96  z-40 w-full flex">
-    <div class="container md:max-w-5xl">
+    <div class="container max-w-sm md:max-w-5xl">
         <h1
             class=" title text-white text-3xl font-semibold w-2/4 mx-auto justify-between text-left leading-[40px]   md:text-4xl md:leading-[62px] md:w-full  flex md:justify-center md:pt-5 md:align-middle
         md:items-center md:text-left">
@@ -80,7 +82,7 @@
     </div>
 </div>
 <div class="section watch top-60 relative md:top-96 z-40 w-full">
-    <div class="container md:max-w-6xl">
+    <div class="container  max-w-sm md:max-w-6xl">
         <h2
             class="title text-white small-text italic w-2/4 mx-auto justify-center text-center  md:w-full  flex md:justify-center md:items-center md:align-middle md:lign-bottom">
             - Andy Warhol -

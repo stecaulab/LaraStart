@@ -45,7 +45,6 @@
 
 <body class="h-full">
     <div id="preloader">
-        ciao
     </div>
     <main>
         {{ $slot }}
@@ -53,12 +52,12 @@
 
 </body>
 
-    <script>
-        var loader = document.getElementById("preloader");
-            window.addEventListener("load" , function(){
-                loader.style.display = "none";
-            })
-    </script>
+<script>
+    var loader = document.getElementById("preloader");
+    window.addEventListener("load", function() {
+        loader.style.display = "none";
+    })
+</script>
 
 
 </html>

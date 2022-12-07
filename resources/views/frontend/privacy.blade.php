@@ -8,7 +8,7 @@
         <div class="container mx-auto max-w-5xl    mt-40">
             <h1 class="text-black font-bold  text-2xl">Privacy Policy <a href="www.aziandaagricolavalmastallone.com"
                     class="text-sm text-blue-600 underline lowercase">
-                    www.aziendaagricolavalmastallone</a></h1>
+                    www.aziendaagricolavalmastallone.com</a></h1>
 
             <p class="text-[18px] leading-10 font-light  text-gray-500">
 
