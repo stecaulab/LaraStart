@@ -12,8 +12,8 @@
         <div class="md:text-[25px] leading-10 font-light pr-4 text-left mt-5 mb-10 reveal2">
             Email: <a href="mailto:aziendaagricolavalmastallone@gmail.com"
                 class="text-yellow-700  md:hover:font-semibold">aziendaagricolavalmastallone@gmail.com </a>
-            - Tel: <a href="https://api.whatsapp.com/send?phone=+3932863949075"
-                class="text-yellow-700  md:hover:font-semibold">+3932863949075</a>
+            - Tel: <a href="https://api.whatsapp.com/send?phone=+393286949075"
+                class="text-yellow-700  md:hover:font-semibold">+39 3286949075</a>
             -
             <a href="https://www.facebook.com/AziendaAgricolaValmastallone"
                 class="text-yellow-700  md:hover:font-semibold">Facebook</a> -
