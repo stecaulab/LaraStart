@@ -102,7 +102,7 @@
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 WhatsApp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
+                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>
@@ -203,7 +203,7 @@
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 WhatsApp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
+                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>
@@ -307,7 +307,7 @@
                             <h3 class="text-gray-900 mt-10 text-base font-thin reveal2"> Oppure inviaci un messaggio
                                 WhatsApp:
                                 <a class="text-yellow-700 font-extralight md:text-gray-900 md:hover:text-yellow-700 md:hover:font-semibold"
-                                    href"https://api.whats=app.com/send?phone=+393286949075">+393286949075</a>
+                                    href="https://api.whatsapp.com/send?phone=+393286949075">+393286949075</a>
                             </h3>
                         </div>
                     </div>

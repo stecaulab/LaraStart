@@ -20,7 +20,7 @@
                     href="https://instagram.com/azienda_agricola_valmastallone?igshid=YmMyMTA2M2Y="><i
                         class="fab fa-instagram  fa-3x"></i></a> </span>
             <span class="block pb-6 text-center reveal2"> <a class="hover:text-yellow-700"
-                    href="https://api.whatsapp.com/send?phone=+3932863949075""><i
+                    href="https://api.whatsapp.com/send?phone=+393286949075">+39 3286949075><i
                         class="fab fa-whatsapp   fa-3x"></i></a> </span>
 
         </div>
@@ -37,7 +37,8 @@
                 </li>
                 <li class="pb-3 mr-16 reveal2"><span>Telefono:</span> <a
                         class="text-yellow-700  md:hover:text-yellow-800"
-                        href="https://api.whatsapp.com/send?phone=+3932863949075"> <span class="right-2">+39
+                        href="https://api.whatsapp.com/send?phone=+393286949075">+39 3286949075"> <span
+                            class="right-2">+39
                             3286949075</span> </a></li>
             </ul>
         </div>
